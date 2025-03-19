@@ -1,0 +1,1001 @@
+gender,age,education_level,occupation,annual_income,past_phishing_exposure,susceptibility_to_Future_attacks,date_of_phishing,location,device_type,internet_usage_hours,social_media_usage_hours,privacy_concerns
+Female,30,Bachelor's Degree,Self-Employed,24353,Yes,Yes,26/08/2015,Suburban,Tablet,15,12,3
+Male,49,High School Diploma,Employed,54207,Yes,Yes,12/12/2013,Rural,Tablet,3,11,1
+Female,47,Other,Retired,59812,Yes,No,17/05/2013,Urban,Desktop,18,7,4
+Male,58,PhD,Self-Employed,80243,Yes,Yes,25/04/2014,Urban,Tablet,4,15,3
+Male,49,High School Diploma,Unemployed,80781,Yes,Yes,24/05/2012,Urban,Laptop,15,8,5
+Female,62,PhD,Self-Employed,48842,Yes,Yes,19/02/2012,Suburban,Laptop,15,6,5
+Female,43,Master's Degree,Employed,54200,Yes,Yes,22/04/2013,Urban,Laptop,17,13,2
+Female,37,PhD,Student,31802,Yes,Yes,26/05/2016,Rural,Laptop,8,3,4
+Female,35,PhD,Student,32928,Yes,Yes,01/01/2013,Urban,Desktop,4,5,3
+Male,48,PhD,Employed,64336,No,Yes,14/04/2013,Rural,Tablet,14,11,5
+Male,25,High School Diploma,Retired,62139,Yes,Yes,13/11/2013,Urban,Tablet,11,13,5
+Female,62,Other,Unemployed,84861,No,Yes,06/05/2012,Rural,Smartphone,1,4,5
+Male,38,Master's Degree,Retired,80764,Yes,Yes,13/11/2015,Suburban,Laptop,3,12,4
+Female,29,High School Diploma,Unemployed,97782,Yes,Yes,16/10/2015,Urban,Desktop,4,10,1
+Male,19,High School Diploma,Unemployed,70140,Yes,No,18/07/2015,Rural,Tablet,2,7,1
+Female,43,Master's Degree,Employed,71123,Yes,Yes,15/01/2016,Rural,Laptop,9,14,5
+Male,52,Master's Degree,Employed,79796,Yes,Yes,05/03/2013,Suburban,Tablet,2,14,3
+Female,61,Other,Retired,22440,Yes,No,10/04/2012,Urban,Laptop,18,12,4
+Male,37,High School Diploma,Unemployed,61297,Yes,Yes,29/06/2015,Urban,Desktop,14,5,4
+Female,33,PhD,Unemployed,22745,Yes,Yes,16/04/2014,Urban,Desktop,17,13,5
+Male,22,PhD,Employed,44809,Yes,Yes,23/06/2015,Urban,Laptop,15,13,5
+Female,58,Other,Self-Employed,23785,Yes,Yes,10/06/2015,Suburban,Tablet,18,8,3
+Female,42,Other,Unemployed,97349,Yes,Yes,04/06/2013,Urban,Laptop,18,7,2
+Female,35,Bachelor's Degree,Student,74163,Yes,Yes,02/05/2015,Rural,Laptop,17,8,1
+Female,38,High School Diploma,Student,96925,Yes,Yes,17/09/2016,Urban,Laptop,18,14,4
+Female,56,Other,Employed,85009,No,Yes,24/01/2012,Rural,Laptop,4,7,5
+Female,60,Master's Degree,Retired,95619,Yes,Yes,11/07/2013,Suburban,Laptop,18,14,5
+Male,51,PhD,Self-Employed,65663,Yes,Yes,23/04/2012,Suburban,Smartphone,14,4,5
+Female,40,Master's Degree,Student,68367,Yes,Yes,18/06/2016,Rural,Tablet,14,1,3
+Male,46,Other,Student,85591,Yes,Yes,19/01/2013,Suburban,Laptop,7,11,2
+Female,61,PhD,Unemployed,76747,Yes,Yes,10/12/2014,Urban,Laptop,6,5,1
+Female,32,Other,Unemployed,60159,Yes,Yes,18/10/2015,Suburban,Tablet,14,12,4
+Male,26,Other,Employed,98056,No,No,31/08/2015,Rural,Laptop,3,2,1
+Male,42,Other,Self-Employed,38184,Yes,Yes,27/10/2012,Rural,Desktop,2,9,2
+Female,41,High School Diploma,Student,81078,Yes,Yes,07/02/2016,Urban,Laptop,6,16,1
+Female,38,Master's Degree,Self-Employed,70047,Yes,Yes,02/07/2016,Suburban,Laptop,4,2,5
+Male,25,PhD,Unemployed,53563,Yes,Yes,01/10/2014,Rural,Desktop,4,15,4
+Male,60,Master's Degree,Student,92256,Yes,Yes,22/10/2012,Urban,Desktop,5,4,3
+Female,21,Master's Degree,Self-Employed,21612,Yes,Yes,24/10/2013,Urban,Desktop,14,16,3
+Female,60,Bachelor's Degree,Unemployed,22741,Yes,No,03/08/2015,Urban,Laptop,14,16,4
+Female,22,High School Diploma,Retired,31570,No,Yes,16/10/2012,Urban,Smartphone,4,14,1
+Male,24,Master's Degree,Student,91076,Yes,No,24/02/2016,Suburban,Desktop,16,12,3
+Male,32,PhD,Retired,50352,Yes,Yes,12/09/2013,Suburban,Smartphone,7,14,4
+Male,20,PhD,Student,83235,Yes,Yes,16/04/2014,Urban,Smartphone,9,9,1
+Male,21,PhD,Employed,79969,Yes,Yes,01/05/2016,Rural,Laptop,8,13,1
+Female,41,High School Diploma,Unemployed,87531,Yes,Yes,29/04/2014,Suburban,Desktop,4,11,4
+Female,51,Other,Unemployed,75116,No,Yes,04/12/2014,Suburban,Laptop,13,10,1
+Male,28,Other,Self-Employed,22790,Yes,Yes,27/06/2015,Urban,Desktop,6,10,5
+Female,41,Master's Degree,Retired,25055,No,Yes,30/03/2014,Rural,Laptop,10,1,1
+Male,18,Bachelor's Degree,Retired,82132,Yes,Yes,11/06/2015,Suburban,Desktop,3,9,2
+Male,55,Master's Degree,Self-Employed,97076,Yes,Yes,12/07/2015,Urban,Desktop,5,7,2
+Male,35,High School Diploma,Unemployed,42482,Yes,No,18/08/2016,Rural,Laptop,14,16,5
+Female,23,Bachelor's Degree,Unemployed,76556,Yes,Yes,04/07/2013,Rural,Laptop,7,16,2
+Female,23,Other,Retired,28746,No,Yes,07/09/2015,Rural,Tablet,17,3,4
+Female,23,PhD,Employed,76827,Yes,Yes,14/08/2013,Urban,Laptop,16,13,2
+Male,32,Bachelor's Degree,Self-Employed,95104,No,Yes,11/08/2012,Rural,Laptop,4,12,4
+Male,30,Other,Employed,89042,Yes,Yes,28/05/2015,Urban,Tablet,8,5,2
+Male,40,Master's Degree,Student,23342,Yes,Yes,08/06/2015,Urban,Desktop,15,8,2
+Male,24,PhD,Self-Employed,91705,Yes,Yes,08/12/2014,Urban,Tablet,3,9,4
+Male,46,Bachelor's Degree,Self-Employed,68133,Yes,Yes,10/04/2013,Suburban,Desktop,5,9,3
+Male,56,High School Diploma,Employed,50861,Yes,Yes,22/06/2015,Urban,Smartphone,17,13,3
+Male,57,High School Diploma,Self-Employed,77736,Yes,Yes,30/04/2012,Rural,Smartphone,18,10,2
+Male,40,Other,Unemployed,48711,Yes,Yes,13/08/2014,Urban,Desktop,9,11,3
+Male,37,PhD,Employed,29184,Yes,Yes,26/03/2012,Rural,Desktop,5,9,5
+Female,52,PhD,Student,20260,Yes,No,30/05/2016,Suburban,Tablet,16,4,4
+Male,22,Master's Degree,Unemployed,84457,Yes,Yes,08/03/2013,Rural,Smartphone,10,16,2
+Female,33,Master's Degree,Self-Employed,66722,Yes,No,20/03/2015,Rural,Smartphone,6,12,4
+Female,45,PhD,Employed,57473,Yes,Yes,30/09/2015,Suburban,Laptop,10,6,2
+Male,64,Bachelor's Degree,Self-Employed,88515,Yes,No,13/04/2015,Rural,Smartphone,8,2,2
+Male,53,High School Diploma,Employed,45746,Yes,Yes,25/09/2015,Suburban,Desktop,1,15,5
+Female,61,Bachelor's Degree,Student,63326,Yes,Yes,19/02/2012,Urban,Tablet,12,14,2
+Female,52,PhD,Unemployed,35878,Yes,Yes,23/03/2016,Rural,Smartphone,2,5,2
+Male,58,Master's Degree,Retired,95824,No,Yes,22/11/2013,Suburban,Desktop,3,11,3
+Male,31,Master's Degree,Self-Employed,67942,No,No,08/12/2016,Urban,Laptop,5,12,1
+Male,61,High School Diploma,Unemployed,91307,Yes,Yes,24/06/2013,Rural,Tablet,12,11,2
+Male,23,High School Diploma,Unemployed,94525,Yes,Yes,28/06/2015,Suburban,Desktop,12,15,3
+Male,39,Master's Degree,Employed,93098,Yes,Yes,14/04/2012,Urban,Desktop,10,14,2
+Female,46,Other,Retired,80618,Yes,Yes,19/06/2013,Rural,Smartphone,7,4,2
+Male,22,PhD,Retired,37025,Yes,Yes,14/05/2012,Suburban,Laptop,13,6,1
+Male,37,Master's Degree,Employed,49577,Yes,Yes,31/08/2016,Urban,Smartphone,11,1,4
+Male,64,Other,Unemployed,27522,Yes,Yes,06/08/2014,Urban,Laptop,13,2,4
+Male,58,Master's Degree,Retired,84752,No,Yes,22/03/2015,Urban,Laptop,5,9,4
+Female,39,PhD,Self-Employed,92112,Yes,Yes,04/01/2013,Rural,Smartphone,13,12,1
+Male,29,PhD,Student,64316,Yes,Yes,09/12/2016,Urban,Smartphone,5,1,4
+Male,51,PhD,Employed,48916,Yes,No,01/04/2015,Urban,Tablet,14,8,2
+Male,50,PhD,Self-Employed,58981,Yes,Yes,15/03/2014,Urban,Smartphone,12,15,3
+Male,54,Other,Student,52359,Yes,Yes,29/02/2016,Suburban,Laptop,10,15,3
+Male,60,PhD,Self-Employed,67220,No,No,01/10/2015,Urban,Desktop,1,10,2
+Male,60,Other,Self-Employed,44806,Yes,Yes,15/04/2016,Suburban,Laptop,8,10,4
+Male,49,Other,Self-Employed,47321,Yes,Yes,07/01/2016,Rural,Laptop,15,8,2
+Male,44,PhD,Self-Employed,83249,Yes,No,22/01/2014,Rural,Laptop,10,4,5
+Male,37,High School Diploma,Student,25259,Yes,Yes,18/01/2013,Urban,Laptop,11,8,2
+Female,49,Bachelor's Degree,Employed,80890,Yes,Yes,01/04/2016,Suburban,Laptop,8,15,4
+Male,49,PhD,Unemployed,63107,Yes,Yes,25/02/2013,Urban,Tablet,15,5,4
+Female,51,Bachelor's Degree,Student,43904,Yes,Yes,23/01/2016,Urban,Laptop,15,5,3
+Female,43,Bachelor's Degree,Retired,75144,No,Yes,01/08/2016,Rural,Smartphone,1,9,1
+Female,40,PhD,Unemployed,39084,Yes,Yes,11/04/2015,Urban,Tablet,13,15,3
+Male,41,Other,Employed,84517,Yes,Yes,07/05/2012,Urban,Tablet,11,12,2
+Female,32,Master's Degree,Unemployed,94018,No,Yes,02/02/2016,Urban,Tablet,11,16,5
+Female,28,Master's Degree,Unemployed,44384,Yes,Yes,16/05/2015,Urban,Smartphone,15,2,5
+Male,61,Master's Degree,Employed,23082,Yes,Yes,24/12/2015,Urban,Laptop,10,13,5
+Female,33,High School Diploma,Student,48504,Yes,Yes,11/12/2013,Rural,Desktop,1,14,1
+Female,30,Other,Self-Employed,26361,No,Yes,18/04/2015,Rural,Smartphone,8,4,5
+Female,20,Master's Degree,Retired,40358,Yes,Yes,03/07/2012,Rural,Desktop,17,1,2
+Female,33,Bachelor's Degree,Student,97490,Yes,Yes,11/10/2016,Urban,Tablet,6,15,5
+Male,59,PhD,Unemployed,60996,Yes,No,24/01/2016,Rural,Desktop,2,14,5
+Male,27,Other,Student,50195,Yes,Yes,30/12/2012,Rural,Laptop,11,8,5
+Male,44,High School Diploma,Self-Employed,86382,Yes,No,07/11/2012,Urban,Smartphone,2,3,5
+Female,26,Bachelor's Degree,Self-Employed,28480,Yes,Yes,07/04/2014,Urban,Laptop,6,2,3
+Female,31,Bachelor's Degree,Unemployed,66974,No,Yes,06/06/2014,Rural,Laptop,16,8,1
+Male,58,Other,Student,62644,Yes,Yes,12/12/2015,Urban,Laptop,10,12,2
+Female,21,PhD,Retired,22852,Yes,Yes,19/10/2014,Urban,Desktop,12,6,4
+Female,29,High School Diploma,Employed,94882,Yes,No,23/09/2014,Urban,Laptop,11,9,1
+Male,20,Bachelor's Degree,Student,69484,Yes,Yes,30/10/2013,Rural,Laptop,12,9,5
+Male,28,Other,Retired,66961,Yes,Yes,02/06/2014,Suburban,Smartphone,7,2,2
+Female,57,Bachelor's Degree,Student,60240,No,Yes,08/05/2015,Suburban,Smartphone,5,14,4
+Female,49,High School Diploma,Unemployed,71282,Yes,Yes,08/09/2015,Urban,Tablet,15,6,3
+Female,54,PhD,Unemployed,76522,Yes,Yes,03/09/2012,Rural,Smartphone,7,4,5
+Male,27,High School Diploma,Student,49454,Yes,Yes,06/09/2012,Urban,Desktop,11,4,2
+Female,48,PhD,Student,71113,Yes,Yes,19/01/2013,Urban,Laptop,15,10,4
+Female,32,Bachelor's Degree,Employed,61503,Yes,Yes,28/07/2016,Rural,Laptop,2,10,4
+Female,37,Bachelor's Degree,Employed,77180,No,Yes,15/02/2016,Urban,Laptop,17,7,5
+Male,49,Bachelor's Degree,Student,88052,Yes,No,02/04/2014,Urban,Tablet,8,10,5
+Male,41,PhD,Self-Employed,49487,Yes,Yes,31/01/2012,Urban,Smartphone,15,2,5
+Male,28,High School Diploma,Unemployed,29585,No,No,19/10/2016,Suburban,Desktop,4,9,2
+Male,55,Bachelor's Degree,Unemployed,81675,Yes,Yes,12/01/2013,Rural,Desktop,5,3,5
+Male,65,Other,Student,77867,Yes,No,04/09/2014,Urban,Laptop,12,3,5
+Male,61,High School Diploma,Employed,89707,Yes,Yes,23/09/2012,Rural,Laptop,12,1,5
+Male,19,Bachelor's Degree,Self-Employed,39904,No,Yes,05/04/2015,Suburban,Desktop,16,3,2
+Female,56,Other,Unemployed,99980,Yes,No,24/08/2016,Urban,Smartphone,10,16,2
+Female,28,High School Diploma,Student,98268,Yes,Yes,07/10/2013,Rural,Desktop,11,10,4
+Male,24,High School Diploma,Employed,24635,No,No,16/12/2013,Suburban,Smartphone,4,1,5
+Male,57,High School Diploma,Employed,32682,Yes,Yes,26/11/2014,Suburban,Smartphone,7,2,2
+Female,46,High School Diploma,Unemployed,67264,Yes,Yes,15/03/2014,Rural,Smartphone,12,7,3
+Male,21,High School Diploma,Retired,73048,Yes,Yes,10/02/2015,Urban,Smartphone,14,5,5
+Female,31,Bachelor's Degree,Employed,49419,Yes,No,21/02/2012,Suburban,Laptop,3,3,1
+Male,56,PhD,Self-Employed,74322,Yes,Yes,24/04/2015,Rural,Smartphone,8,7,2
+Male,20,Bachelor's Degree,Self-Employed,78195,Yes,Yes,26/07/2014,Urban,Tablet,5,10,1
+Male,47,High School Diploma,Student,47701,No,Yes,07/06/2013,Suburban,Tablet,14,13,2
+Male,27,Other,Unemployed,60360,No,Yes,04/02/2013,Urban,Tablet,16,14,4
+Male,18,PhD,Student,48190,Yes,Yes,01/10/2012,Urban,Smartphone,8,5,1
+Female,56,Master's Degree,Self-Employed,52885,Yes,Yes,04/02/2015,Rural,Smartphone,18,12,3
+Male,58,Master's Degree,Retired,63021,Yes,Yes,08/04/2013,Rural,Smartphone,10,16,5
+Female,49,PhD,Self-Employed,58259,Yes,No,30/08/2016,Rural,Desktop,3,13,4
+Female,46,Bachelor's Degree,Retired,39273,No,Yes,27/08/2013,Urban,Laptop,10,7,2
+Male,39,High School Diploma,Employed,65691,Yes,Yes,21/11/2013,Suburban,Laptop,8,8,5
+Female,55,PhD,Self-Employed,23191,No,No,20/12/2016,Urban,Laptop,18,15,4
+Female,31,PhD,Unemployed,37161,No,Yes,15/05/2013,Suburban,Smartphone,5,14,4
+Male,61,High School Diploma,Employed,25797,Yes,Yes,22/08/2014,Urban,Smartphone,10,12,4
+Male,28,Other,Retired,50902,Yes,Yes,31/03/2013,Urban,Desktop,9,5,1
+Male,60,High School Diploma,Self-Employed,36049,Yes,Yes,30/08/2015,Suburban,Smartphone,4,15,1
+Female,52,Master's Degree,Student,51928,No,Yes,08/09/2012,Urban,Desktop,5,10,5
+Male,26,Bachelor's Degree,Self-Employed,85981,Yes,Yes,16/08/2016,Suburban,Laptop,13,13,4
+Male,58,Other,Student,41457,Yes,Yes,03/10/2015,Urban,Desktop,15,9,2
+Male,56,PhD,Employed,50420,Yes,Yes,28/10/2013,Urban,Desktop,1,10,1
+Female,31,Bachelor's Degree,Self-Employed,32382,Yes,Yes,10/12/2015,Rural,Tablet,7,12,4
+Female,20,Bachelor's Degree,Retired,25188,Yes,Yes,16/09/2012,Rural,Smartphone,9,8,1
+Male,33,PhD,Employed,59462,No,Yes,09/03/2013,Urban,Desktop,12,10,3
+Male,28,Other,Retired,81170,Yes,Yes,20/10/2015,Rural,Tablet,14,16,4
+Male,49,Other,Employed,78880,Yes,Yes,22/02/2013,Suburban,Smartphone,13,11,1
+Female,43,Master's Degree,Employed,45752,Yes,Yes,16/04/2016,Suburban,Laptop,18,1,5
+Female,25,Master's Degree,Student,74263,Yes,Yes,13/07/2012,Suburban,Smartphone,13,15,1
+Female,21,Other,Retired,65621,Yes,No,23/12/2012,Suburban,Tablet,14,3,2
+Male,47,Master's Degree,Self-Employed,56558,No,Yes,24/09/2014,Rural,Laptop,2,15,3
+Female,60,Master's Degree,Student,65349,No,Yes,18/07/2014,Rural,Laptop,2,15,2
+Female,42,Bachelor's Degree,Self-Employed,54954,Yes,Yes,17/06/2016,Rural,Desktop,16,5,5
+Male,60,Bachelor's Degree,Employed,87355,Yes,Yes,29/08/2015,Rural,Smartphone,10,9,3
+Male,43,Master's Degree,Unemployed,89394,Yes,Yes,30/03/2016,Urban,Desktop,7,2,1
+Male,34,High School Diploma,Retired,29948,Yes,Yes,06/11/2013,Urban,Tablet,15,3,3
+Female,61,High School Diploma,Student,97336,Yes,Yes,04/07/2012,Urban,Desktop,1,13,3
+Female,51,High School Diploma,Student,78611,No,Yes,18/02/2016,Suburban,Tablet,10,16,3
+Female,56,Master's Degree,Student,60938,Yes,Yes,24/02/2013,Rural,Desktop,15,13,1
+Male,54,Other,Unemployed,53836,Yes,Yes,29/06/2016,Suburban,Smartphone,2,10,3
+Female,19,Bachelor's Degree,Retired,44281,Yes,Yes,04/11/2014,Urban,Tablet,15,6,3
+Female,20,Master's Degree,Retired,22421,Yes,Yes,28/07/2015,Urban,Laptop,14,3,3
+Male,54,PhD,Student,49421,Yes,Yes,26/05/2014,Rural,Laptop,5,11,2
+Male,34,High School Diploma,Student,23059,No,Yes,05/04/2016,Rural,Laptop,12,11,4
+Female,38,Master's Degree,Self-Employed,39641,Yes,Yes,01/11/2015,Rural,Desktop,10,1,1
+Female,53,Other,Retired,21047,Yes,Yes,31/05/2014,Urban,Smartphone,13,1,4
+Male,20,PhD,Employed,68408,No,Yes,28/10/2013,Urban,Desktop,4,6,4
+Male,50,PhD,Unemployed,52976,Yes,Yes,25/04/2014,Urban,Tablet,13,9,1
+Female,65,Other,Self-Employed,47093,Yes,No,21/03/2013,Urban,Smartphone,9,3,1
+Female,21,High School Diploma,Self-Employed,89781,No,Yes,13/05/2015,Suburban,Smartphone,13,16,5
+Female,64,PhD,Unemployed,24034,Yes,Yes,08/01/2013,Suburban,Smartphone,3,4,1
+Male,48,Other,Retired,41066,Yes,Yes,21/03/2012,Suburban,Tablet,17,9,1
+Female,39,Master's Degree,Self-Employed,79763,Yes,Yes,13/01/2015,Urban,Tablet,11,15,3
+Female,51,Bachelor's Degree,Student,32691,Yes,Yes,07/04/2013,Urban,Laptop,15,9,3
+Female,24,Bachelor's Degree,Retired,20199,No,No,10/01/2012,Suburban,Desktop,13,11,1
+Male,45,Other,Employed,22736,Yes,Yes,18/11/2014,Rural,Smartphone,9,11,5
+Female,55,Bachelor's Degree,Employed,21947,No,Yes,06/10/2016,Suburban,Smartphone,12,9,4
+Male,57,High School Diploma,Employed,23056,Yes,Yes,12/04/2015,Urban,Tablet,17,8,5
+Female,53,Other,Retired,66734,Yes,Yes,24/04/2014,Suburban,Desktop,13,8,2
+Female,49,Master's Degree,Employed,46646,Yes,Yes,19/07/2016,Suburban,Tablet,13,1,5
+Female,40,High School Diploma,Unemployed,39302,Yes,Yes,29/01/2015,Urban,Smartphone,1,12,2
+Male,49,Other,Employed,26676,Yes,Yes,15/11/2016,Urban,Desktop,2,1,3
+Female,32,PhD,Self-Employed,24276,Yes,No,04/11/2013,Suburban,Desktop,15,16,1
+Male,65,Master's Degree,Employed,72898,Yes,Yes,09/12/2015,Rural,Tablet,11,7,4
+Female,39,Bachelor's Degree,Unemployed,62531,Yes,Yes,30/09/2013,Suburban,Tablet,14,11,2
+Male,19,Master's Degree,Unemployed,49561,Yes,Yes,22/12/2014,Urban,Smartphone,18,1,4
+Male,21,Other,Student,51547,Yes,Yes,02/08/2014,Suburban,Desktop,7,16,1
+Female,59,High School Diploma,Self-Employed,29862,Yes,No,18/06/2015,Rural,Laptop,16,8,3
+Male,28,Master's Degree,Retired,35716,Yes,Yes,15/02/2012,Urban,Desktop,9,11,1
+Male,40,Bachelor's Degree,Unemployed,32442,Yes,No,16/06/2012,Rural,Desktop,11,6,4
+Male,19,Master's Degree,Student,94858,Yes,Yes,09/04/2013,Urban,Desktop,7,3,1
+Male,63,High School Diploma,Employed,76750,Yes,Yes,02/06/2013,Rural,Smartphone,18,7,3
+Male,32,High School Diploma,Employed,76230,Yes,No,27/07/2012,Rural,Smartphone,5,6,4
+Female,59,Other,Retired,48280,Yes,Yes,06/07/2014,Rural,Smartphone,7,1,3
+Female,50,Bachelor's Degree,Unemployed,73068,No,Yes,22/03/2012,Suburban,Tablet,12,10,2
+Female,43,Master's Degree,Student,28664,Yes,Yes,08/01/2013,Rural,Laptop,9,16,1
+Female,22,Master's Degree,Retired,33922,Yes,Yes,01/11/2013,Suburban,Desktop,17,16,1
+Female,61,High School Diploma,Retired,92590,Yes,Yes,23/09/2016,Urban,Smartphone,5,12,1
+Male,18,PhD,Employed,67741,No,No,26/12/2016,Urban,Tablet,6,15,4
+Male,50,High School Diploma,Unemployed,92376,Yes,Yes,12/01/2016,Suburban,Smartphone,2,2,4
+Female,29,PhD,Unemployed,96274,Yes,Yes,25/06/2015,Urban,Desktop,4,2,2
+Male,58,Master's Degree,Unemployed,51002,Yes,Yes,09/03/2014,Urban,Tablet,9,7,4
+Male,56,Bachelor's Degree,Retired,20815,Yes,Yes,28/10/2012,Suburban,Desktop,1,13,3
+Male,49,High School Diploma,Self-Employed,48802,No,Yes,07/03/2013,Urban,Tablet,2,15,2
+Female,30,Master's Degree,Student,56392,Yes,Yes,27/11/2014,Suburban,Tablet,2,7,5
+Male,29,PhD,Employed,78609,Yes,Yes,26/01/2015,Urban,Tablet,16,5,4
+Female,33,High School Diploma,Self-Employed,31616,Yes,Yes,09/02/2013,Suburban,Laptop,14,15,5
+Female,40,Master's Degree,Student,48682,Yes,Yes,26/01/2016,Suburban,Laptop,11,7,1
+Female,32,Other,Unemployed,52973,Yes,No,21/12/2016,Suburban,Smartphone,12,11,1
+Male,24,PhD,Self-Employed,58343,Yes,Yes,22/01/2016,Suburban,Desktop,1,15,1
+Male,57,PhD,Employed,60357,Yes,Yes,09/09/2012,Suburban,Laptop,8,14,4
+Female,61,PhD,Unemployed,85256,No,Yes,22/01/2014,Urban,Smartphone,6,8,4
+Male,46,Bachelor's Degree,Retired,83633,Yes,Yes,29/06/2013,Urban,Tablet,18,16,4
+Male,21,PhD,Retired,56553,Yes,Yes,07/03/2013,Suburban,Smartphone,1,9,4
+Female,49,Other,Self-Employed,46986,Yes,Yes,23/07/2015,Rural,Laptop,5,1,3
+Male,53,High School Diploma,Student,87757,Yes,Yes,03/09/2013,Urban,Desktop,17,15,2
+Female,46,PhD,Retired,21225,Yes,Yes,03/01/2015,Urban,Smartphone,3,2,5
+Male,42,Bachelor's Degree,Employed,41813,Yes,Yes,17/06/2015,Urban,Desktop,1,1,2
+Female,65,Bachelor's Degree,Retired,87427,Yes,No,04/03/2013,Suburban,Laptop,11,16,4
+Male,23,PhD,Employed,31796,No,Yes,16/12/2014,Suburban,Laptop,3,13,3
+Male,51,Master's Degree,Self-Employed,60985,No,Yes,02/11/2013,Suburban,Smartphone,10,11,3
+Male,34,Master's Degree,Unemployed,64649,No,Yes,25/09/2015,Suburban,Laptop,6,2,3
+Female,37,High School Diploma,Retired,39363,Yes,Yes,05/12/2014,Rural,Laptop,16,14,3
+Female,31,Master's Degree,Self-Employed,49503,Yes,Yes,14/11/2012,Urban,Desktop,6,11,2
+Female,61,Bachelor's Degree,Student,86816,Yes,Yes,05/10/2012,Rural,Desktop,12,7,4
+Female,61,Bachelor's Degree,Student,23896,No,Yes,05/08/2016,Rural,Laptop,9,3,5
+Female,62,Master's Degree,Unemployed,27017,No,Yes,22/06/2012,Urban,Smartphone,14,10,3
+Male,42,Master's Degree,Employed,43599,Yes,Yes,25/07/2015,Urban,Smartphone,15,2,3
+Female,42,PhD,Student,57946,Yes,Yes,17/03/2014,Urban,Tablet,2,5,2
+Male,32,High School Diploma,Unemployed,46289,Yes,Yes,01/09/2014,Suburban,Smartphone,1,15,4
+Female,43,Other,Self-Employed,94200,Yes,Yes,24/07/2016,Rural,Desktop,15,13,2
+Female,43,Other,Self-Employed,88564,Yes,Yes,18/09/2012,Suburban,Desktop,8,3,2
+Male,50,PhD,Employed,80857,Yes,No,10/11/2016,Urban,Smartphone,2,16,1
+Female,22,High School Diploma,Unemployed,81819,Yes,Yes,25/10/2014,Rural,Smartphone,6,12,5
+Male,26,PhD,Unemployed,77707,Yes,Yes,22/08/2012,Suburban,Desktop,14,7,1
+Male,36,PhD,Employed,25707,Yes,Yes,28/08/2013,Rural,Desktop,16,13,4
+Female,19,Master's Degree,Self-Employed,94761,Yes,Yes,18/11/2014,Urban,Smartphone,5,13,5
+Male,45,Bachelor's Degree,Self-Employed,42102,Yes,Yes,03/05/2014,Urban,Desktop,11,10,4
+Female,59,Master's Degree,Student,27124,Yes,Yes,23/12/2016,Suburban,Smartphone,8,7,2
+Female,25,Other,Self-Employed,43074,Yes,Yes,29/09/2013,Urban,Smartphone,6,11,2
+Female,33,High School Diploma,Student,90604,Yes,Yes,01/04/2012,Suburban,Smartphone,11,3,4
+Female,33,Bachelor's Degree,Unemployed,50751,Yes,Yes,06/12/2016,Suburban,Tablet,4,14,4
+Female,63,Master's Degree,Self-Employed,91919,No,No,25/08/2012,Rural,Desktop,15,10,1
+Female,38,Master's Degree,Retired,67255,Yes,No,16/04/2013,Rural,Desktop,12,5,3
+Male,28,Other,Student,41529,Yes,No,23/08/2014,Urban,Tablet,10,8,1
+Male,40,High School Diploma,Student,65019,Yes,Yes,01/04/2012,Rural,Smartphone,13,4,1
+Male,65,High School Diploma,Employed,67481,Yes,Yes,21/02/2012,Urban,Smartphone,6,9,2
+Female,42,Bachelor's Degree,Student,83342,Yes,Yes,27/10/2014,Suburban,Tablet,10,8,2
+Male,52,Bachelor's Degree,Employed,86858,No,Yes,22/01/2012,Suburban,Tablet,7,3,2
+Female,20,Other,Retired,62637,Yes,Yes,20/11/2012,Rural,Tablet,3,7,1
+Male,46,Master's Degree,Self-Employed,26683,Yes,Yes,29/08/2013,Urban,Smartphone,11,13,1
+Male,65,High School Diploma,Employed,79246,Yes,Yes,25/04/2012,Rural,Smartphone,4,5,1
+Female,30,Other,Self-Employed,51637,No,Yes,22/12/2013,Rural,Tablet,4,5,4
+Female,18,Bachelor's Degree,Employed,30794,Yes,Yes,24/04/2012,Urban,Laptop,6,6,1
+Female,31,Other,Self-Employed,67855,Yes,Yes,08/06/2016,Rural,Desktop,8,3,4
+Female,57,High School Diploma,Employed,26870,Yes,No,29/10/2014,Suburban,Smartphone,12,1,3
+Male,41,Bachelor's Degree,Employed,91799,Yes,No,06/06/2013,Urban,Laptop,7,8,5
+Female,49,PhD,Retired,26146,Yes,Yes,22/08/2016,Suburban,Desktop,8,4,1
+Female,25,Bachelor's Degree,Retired,40684,No,Yes,31/01/2015,Urban,Smartphone,5,4,3
+Female,60,PhD,Self-Employed,71310,No,Yes,25/04/2014,Rural,Desktop,7,12,5
+Female,60,Other,Unemployed,97273,No,Yes,30/06/2016,Rural,Tablet,7,16,2
+Female,46,High School Diploma,Employed,66328,Yes,Yes,04/01/2014,Rural,Tablet,4,15,3
+Male,37,Other,Self-Employed,29790,Yes,Yes,02/02/2013,Urban,Smartphone,6,7,3
+Male,60,Bachelor's Degree,Student,86306,Yes,Yes,17/10/2016,Suburban,Desktop,9,2,1
+Male,27,Other,Retired,92463,Yes,No,13/03/2016,Suburban,Laptop,7,8,1
+Male,33,Master's Degree,Employed,54811,No,Yes,27/06/2016,Rural,Smartphone,1,5,4
+Female,43,PhD,Retired,91378,Yes,Yes,08/04/2012,Suburban,Smartphone,17,6,3
+Male,41,Bachelor's Degree,Retired,36408,Yes,Yes,10/10/2012,Urban,Laptop,1,9,1
+Male,25,Bachelor's Degree,Retired,73194,Yes,Yes,03/04/2012,Rural,Desktop,16,1,3
+Female,61,PhD,Student,20121,Yes,Yes,09/12/2015,Urban,Desktop,5,5,4
+Male,35,PhD,Student,82859,Yes,Yes,14/10/2012,Urban,Desktop,17,15,3
+Female,19,Other,Retired,27368,Yes,Yes,24/03/2015,Rural,Tablet,18,4,3
+Female,22,Other,Self-Employed,36402,No,Yes,07/12/2013,Rural,Desktop,5,16,1
+Male,64,Master's Degree,Self-Employed,46173,Yes,No,14/04/2016,Urban,Tablet,2,15,2
+Female,35,High School Diploma,Unemployed,93696,Yes,No,25/05/2012,Urban,Desktop,6,7,3
+Male,29,High School Diploma,Unemployed,45699,Yes,Yes,22/07/2013,Suburban,Laptop,14,15,4
+Male,52,Bachelor's Degree,Student,72871,Yes,No,03/03/2012,Suburban,Tablet,7,6,4
+Female,53,High School Diploma,Employed,86022,Yes,Yes,05/06/2013,Urban,Laptop,9,16,1
+Female,55,High School Diploma,Retired,67821,Yes,Yes,30/04/2012,Rural,Tablet,13,14,3
+Male,50,Master's Degree,Retired,37945,Yes,Yes,19/11/2015,Urban,Laptop,9,6,2
+Male,20,High School Diploma,Unemployed,72178,Yes,Yes,11/01/2013,Urban,Laptop,4,9,5
+Male,46,Master's Degree,Employed,44676,Yes,Yes,27/12/2012,Rural,Smartphone,14,9,4
+Male,29,PhD,Unemployed,49566,Yes,No,06/08/2015,Suburban,Tablet,18,15,1
+Male,64,Other,Student,76198,Yes,No,04/02/2013,Suburban,Desktop,5,9,3
+Male,52,High School Diploma,Student,82010,Yes,Yes,19/02/2013,Suburban,Tablet,15,11,3
+Male,58,Master's Degree,Employed,89323,Yes,Yes,21/03/2016,Suburban,Smartphone,7,1,5
+Male,49,PhD,Student,40145,Yes,No,20/09/2014,Suburban,Desktop,7,7,2
+Female,27,Bachelor's Degree,Student,54394,Yes,Yes,18/03/2012,Rural,Laptop,12,10,4
+Female,34,Bachelor's Degree,Retired,98944,No,Yes,02/10/2015,Urban,Smartphone,1,6,3
+Male,30,Master's Degree,Unemployed,99216,Yes,Yes,02/04/2013,Rural,Desktop,17,3,5
+Female,60,Other,Employed,65479,No,Yes,06/11/2015,Suburban,Smartphone,7,9,2
+Male,20,Bachelor's Degree,Self-Employed,90856,No,No,23/01/2012,Rural,Desktop,1,2,5
+Female,23,Other,Student,70459,Yes,Yes,11/01/2015,Suburban,Tablet,2,2,3
+Male,27,Bachelor's Degree,Retired,94045,Yes,Yes,17/11/2012,Urban,Tablet,10,1,2
+Female,42,Other,Unemployed,54555,Yes,Yes,10/09/2015,Rural,Smartphone,2,11,4
+Female,20,Other,Unemployed,52007,Yes,Yes,13/03/2012,Rural,Desktop,8,11,3
+Male,65,Other,Retired,84242,No,No,17/01/2013,Suburban,Laptop,6,9,5
+Female,18,High School Diploma,Retired,22686,Yes,Yes,08/02/2015,Suburban,Laptop,4,1,4
+Male,62,Other,Self-Employed,63813,No,Yes,30/06/2012,Suburban,Tablet,2,12,4
+Male,28,Other,Retired,41210,Yes,Yes,25/10/2014,Suburban,Smartphone,7,8,2
+Male,48,Other,Retired,23393,Yes,Yes,12/01/2014,Rural,Tablet,10,6,2
+Female,57,Bachelor's Degree,Employed,91321,Yes,Yes,25/09/2012,Suburban,Tablet,1,1,1
+Male,39,Bachelor's Degree,Employed,20507,Yes,Yes,18/12/2014,Urban,Smartphone,8,14,4
+Male,56,High School Diploma,Student,70585,Yes,No,21/08/2014,Rural,Desktop,16,11,2
+Male,31,PhD,Retired,71208,Yes,No,19/10/2012,Rural,Smartphone,16,6,2
+Female,64,High School Diploma,Unemployed,31927,Yes,Yes,23/01/2015,Urban,Smartphone,17,11,3
+Male,48,Bachelor's Degree,Retired,42767,Yes,Yes,30/07/2016,Rural,Laptop,18,16,5
+Male,62,Master's Degree,Student,60726,Yes,Yes,13/10/2016,Rural,Desktop,14,10,2
+Female,20,Other,Unemployed,86766,No,Yes,29/01/2013,Urban,Tablet,11,10,3
+Male,41,PhD,Retired,31039,Yes,Yes,11/03/2013,Suburban,Smartphone,13,3,3
+Male,38,High School Diploma,Retired,54520,Yes,Yes,12/10/2013,Urban,Laptop,8,11,5
+Female,47,Bachelor's Degree,Student,50463,Yes,Yes,07/08/2012,Suburban,Tablet,4,5,4
+Male,45,Other,Self-Employed,46866,Yes,No,10/01/2014,Suburban,Laptop,9,7,2
+Female,37,High School Diploma,Student,24631,Yes,Yes,13/02/2014,Urban,Tablet,5,7,4
+Male,55,Master's Degree,Employed,53048,Yes,Yes,06/04/2014,Urban,Laptop,1,10,5
+Male,55,Master's Degree,Student,31898,Yes,Yes,05/08/2012,Suburban,Smartphone,16,4,5
+Female,36,PhD,Retired,57726,Yes,Yes,15/07/2013,Suburban,Tablet,14,16,5
+Male,18,High School Diploma,Student,21856,Yes,Yes,01/02/2016,Rural,Tablet,6,2,3
+Male,57,Master's Degree,Unemployed,90942,No,Yes,30/05/2013,Rural,Desktop,17,8,3
+Female,53,PhD,Student,63522,Yes,Yes,16/06/2015,Suburban,Smartphone,10,3,3
+Female,41,High School Diploma,Student,63506,Yes,Yes,21/09/2016,Rural,Laptop,13,13,2
+Female,54,High School Diploma,Student,39001,Yes,No,14/08/2014,Rural,Laptop,5,15,4
+Male,33,PhD,Employed,65888,Yes,Yes,13/10/2013,Urban,Laptop,13,5,2
+Male,20,High School Diploma,Unemployed,35561,Yes,Yes,24/12/2014,Suburban,Desktop,6,6,5
+Male,33,Master's Degree,Student,86161,Yes,Yes,16/06/2014,Urban,Tablet,18,6,5
+Male,40,PhD,Employed,81921,No,No,17/07/2012,Urban,Laptop,2,8,4
+Male,47,PhD,Retired,79754,Yes,Yes,03/07/2013,Urban,Laptop,14,13,2
+Male,63,PhD,Student,69189,Yes,Yes,08/08/2016,Suburban,Smartphone,2,4,4
+Male,19,Other,Unemployed,28426,Yes,Yes,22/02/2013,Urban,Smartphone,6,13,2
+Female,30,Master's Degree,Retired,78957,Yes,Yes,01/03/2014,Suburban,Tablet,1,15,4
+Female,40,PhD,Unemployed,56340,No,Yes,05/10/2012,Suburban,Smartphone,15,13,5
+Female,25,Bachelor's Degree,Retired,94390,Yes,Yes,10/03/2016,Rural,Desktop,3,11,1
+Male,52,Other,Unemployed,71243,Yes,Yes,28/04/2014,Rural,Tablet,4,1,4
+Male,36,PhD,Retired,68370,Yes,Yes,15/09/2015,Rural,Desktop,4,12,4
+Male,41,Master's Degree,Student,74841,Yes,Yes,06/08/2012,Urban,Tablet,8,2,5
+Female,62,Other,Self-Employed,43408,Yes,Yes,11/02/2015,Urban,Smartphone,9,1,1
+Male,20,Bachelor's Degree,Self-Employed,20414,Yes,Yes,28/09/2013,Rural,Laptop,3,3,2
+Female,46,Other,Student,23204,Yes,No,09/01/2014,Urban,Smartphone,14,7,1
+Male,57,Other,Retired,61613,Yes,Yes,02/10/2015,Suburban,Desktop,17,14,4
+Male,51,Other,Employed,51623,Yes,Yes,27/06/2012,Suburban,Smartphone,6,9,2
+Male,29,High School Diploma,Retired,29727,Yes,Yes,25/05/2013,Rural,Desktop,7,9,1
+Male,44,Bachelor's Degree,Retired,74827,Yes,Yes,15/07/2012,Urban,Desktop,12,5,3
+Female,49,PhD,Student,61529,Yes,Yes,07/10/2016,Suburban,Tablet,4,10,1
+Female,45,High School Diploma,Unemployed,77509,Yes,Yes,27/01/2012,Urban,Laptop,7,2,3
+Female,41,PhD,Student,79610,Yes,Yes,01/10/2015,Rural,Laptop,7,9,5
+Male,34,Bachelor's Degree,Self-Employed,52581,No,Yes,03/12/2015,Rural,Tablet,11,11,2
+Male,64,PhD,Student,28074,Yes,Yes,02/08/2012,Suburban,Desktop,5,14,1
+Female,41,Other,Retired,37560,Yes,Yes,23/08/2012,Rural,Smartphone,8,3,5
+Male,27,PhD,Student,62410,No,No,27/10/2016,Rural,Tablet,7,1,3
+Male,56,Other,Self-Employed,46999,Yes,Yes,11/09/2012,Rural,Desktop,18,15,4
+Male,52,PhD,Student,92192,No,Yes,12/07/2013,Rural,Smartphone,3,7,1
+Male,44,High School Diploma,Retired,90010,Yes,Yes,21/06/2014,Rural,Smartphone,14,4,2
+Male,37,High School Diploma,Self-Employed,41633,Yes,No,07/09/2014,Suburban,Smartphone,4,15,3
+Female,50,Other,Employed,53863,Yes,Yes,24/06/2015,Urban,Tablet,4,5,3
+Female,33,PhD,Student,47885,Yes,Yes,03/03/2015,Urban,Desktop,6,15,3
+Female,25,Other,Retired,75979,Yes,Yes,09/08/2014,Urban,Laptop,13,7,2
+Male,56,Other,Unemployed,39950,Yes,Yes,22/04/2015,Suburban,Laptop,7,14,4
+Female,21,Master's Degree,Employed,21447,Yes,Yes,23/08/2015,Urban,Tablet,3,11,2
+Male,62,PhD,Self-Employed,92620,Yes,No,25/08/2013,Suburban,Smartphone,13,2,4
+Female,56,High School Diploma,Self-Employed,43034,Yes,No,27/01/2014,Suburban,Tablet,8,8,4
+Female,61,Other,Employed,20415,No,Yes,30/09/2013,Suburban,Smartphone,2,15,1
+Female,45,Master's Degree,Employed,27314,No,Yes,29/10/2015,Suburban,Laptop,14,7,2
+Male,20,Bachelor's Degree,Unemployed,83425,Yes,Yes,01/03/2012,Rural,Laptop,1,15,3
+Male,27,PhD,Employed,51590,Yes,No,06/12/2013,Urban,Laptop,14,8,1
+Male,30,High School Diploma,Self-Employed,75020,No,Yes,01/11/2013,Urban,Desktop,5,15,3
+Female,54,High School Diploma,Employed,73940,Yes,Yes,25/06/2013,Urban,Laptop,18,12,5
+Male,32,Bachelor's Degree,Unemployed,39692,Yes,Yes,25/01/2015,Urban,Smartphone,7,15,1
+Male,56,Master's Degree,Student,46256,Yes,Yes,17/03/2014,Suburban,Desktop,8,12,1
+Male,42,High School Diploma,Unemployed,87465,Yes,Yes,25/08/2013,Urban,Tablet,6,15,3
+Female,18,High School Diploma,Employed,57268,Yes,Yes,22/06/2014,Rural,Smartphone,14,4,5
+Female,30,PhD,Self-Employed,72392,Yes,Yes,06/07/2013,Urban,Tablet,3,12,1
+Female,28,PhD,Retired,91767,Yes,Yes,14/01/2016,Suburban,Desktop,5,16,4
+Female,18,Master's Degree,Student,37321,Yes,Yes,15/07/2012,Suburban,Tablet,3,9,3
+Female,28,PhD,Self-Employed,65231,Yes,Yes,02/12/2012,Rural,Tablet,18,10,3
+Male,62,Master's Degree,Retired,66379,Yes,No,07/02/2014,Rural,Smartphone,12,13,5
+Male,47,Master's Degree,Self-Employed,38548,Yes,Yes,04/06/2016,Rural,Desktop,15,13,1
+Male,59,High School Diploma,Unemployed,36120,Yes,Yes,31/03/2012,Urban,Desktop,9,1,5
+Female,54,Bachelor's Degree,Retired,34102,Yes,Yes,03/01/2013,Rural,Tablet,3,13,5
+Male,37,Master's Degree,Employed,39408,Yes,Yes,24/08/2015,Rural,Smartphone,6,15,1
+Male,21,High School Diploma,Employed,38619,No,Yes,03/03/2016,Suburban,Smartphone,4,4,3
+Male,26,PhD,Unemployed,42156,Yes,Yes,16/04/2015,Rural,Laptop,16,4,4
+Male,31,PhD,Student,47917,Yes,Yes,28/09/2016,Suburban,Tablet,1,1,3
+Male,26,Other,Retired,31260,Yes,No,08/07/2012,Urban,Tablet,17,8,3
+Female,30,Bachelor's Degree,Student,48741,Yes,Yes,04/04/2015,Suburban,Tablet,9,1,4
+Male,20,High School Diploma,Unemployed,58345,No,Yes,16/10/2013,Rural,Desktop,16,5,1
+Male,47,Other,Self-Employed,33946,No,Yes,24/03/2016,Urban,Smartphone,2,2,1
+Male,43,Bachelor's Degree,Unemployed,75595,Yes,Yes,18/10/2016,Suburban,Laptop,9,8,5
+Female,65,High School Diploma,Employed,94284,Yes,Yes,28/04/2013,Suburban,Desktop,16,10,4
+Female,22,High School Diploma,Retired,44658,Yes,Yes,10/09/2014,Suburban,Tablet,5,1,3
+Female,22,PhD,Self-Employed,62446,Yes,Yes,13/10/2015,Rural,Smartphone,17,11,2
+Female,18,Other,Employed,95210,Yes,No,16/06/2016,Urban,Tablet,13,13,3
+Male,60,High School Diploma,Self-Employed,78024,Yes,Yes,02/02/2014,Urban,Tablet,15,9,5
+Female,43,Other,Employed,26346,Yes,Yes,29/04/2014,Suburban,Laptop,15,16,2
+Female,52,Bachelor's Degree,Retired,91917,Yes,No,06/11/2013,Urban,Laptop,4,5,1
+Male,46,Other,Self-Employed,41925,Yes,No,02/12/2012,Suburban,Smartphone,13,1,1
+Female,45,High School Diploma,Employed,48088,Yes,Yes,21/08/2014,Urban,Laptop,2,15,5
+Female,43,High School Diploma,Retired,77211,Yes,Yes,27/05/2016,Suburban,Desktop,15,6,1
+Female,54,PhD,Self-Employed,99625,Yes,Yes,16/04/2016,Rural,Smartphone,11,11,1
+Male,45,PhD,Student,48236,Yes,Yes,30/01/2014,Rural,Smartphone,5,6,2
+Male,56,PhD,Employed,41492,Yes,Yes,21/06/2016,Rural,Smartphone,13,2,5
+Male,33,Master's Degree,Student,69566,Yes,No,30/08/2012,Rural,Smartphone,9,4,1
+Male,36,High School Diploma,Unemployed,36616,Yes,No,24/12/2015,Urban,Smartphone,18,7,2
+Male,43,Bachelor's Degree,Retired,54207,No,Yes,06/03/2014,Urban,Desktop,3,7,2
+Female,64,High School Diploma,Self-Employed,58557,Yes,Yes,19/12/2012,Suburban,Laptop,11,3,5
+Male,60,High School Diploma,Retired,57380,Yes,Yes,26/04/2012,Rural,Smartphone,12,15,5
+Male,31,Other,Self-Employed,87569,Yes,Yes,15/01/2012,Rural,Laptop,16,6,4
+Male,33,High School Diploma,Self-Employed,90522,Yes,Yes,06/03/2015,Rural,Smartphone,11,6,2
+Female,48,Bachelor's Degree,Student,48393,Yes,No,05/12/2013,Rural,Tablet,9,2,4
+Male,19,Other,Student,58078,Yes,Yes,30/01/2012,Suburban,Tablet,7,4,3
+Female,19,Other,Retired,65772,Yes,Yes,21/07/2012,Urban,Tablet,6,3,5
+Female,25,Master's Degree,Employed,95743,Yes,Yes,26/02/2014,Urban,Laptop,6,3,5
+Male,62,Other,Student,42977,No,Yes,19/09/2015,Rural,Smartphone,16,8,5
+Male,19,Master's Degree,Employed,86004,Yes,Yes,19/08/2015,Rural,Desktop,2,10,1
+Female,47,Bachelor's Degree,Employed,54277,Yes,Yes,23/05/2013,Rural,Desktop,11,10,5
+Male,44,Master's Degree,Self-Employed,91661,Yes,Yes,08/06/2015,Suburban,Laptop,17,3,3
+Female,56,PhD,Student,85635,Yes,Yes,18/12/2016,Urban,Tablet,10,10,5
+Female,50,Master's Degree,Unemployed,29210,Yes,No,12/03/2016,Urban,Desktop,7,13,5
+Female,29,PhD,Retired,98120,No,Yes,19/11/2016,Rural,Desktop,17,1,2
+Male,48,Other,Student,85800,Yes,Yes,10/07/2012,Rural,Smartphone,5,5,3
+Female,43,Bachelor's Degree,Self-Employed,30447,Yes,Yes,30/01/2013,Urban,Tablet,4,9,1
+Female,31,Bachelor's Degree,Unemployed,21625,Yes,Yes,16/03/2013,Urban,Desktop,17,13,1
+Female,62,Bachelor's Degree,Student,67772,No,Yes,28/12/2013,Urban,Laptop,1,9,5
+Female,26,Bachelor's Degree,Retired,38423,Yes,Yes,14/11/2013,Urban,Desktop,16,13,3
+Female,36,PhD,Student,59153,Yes,Yes,10/08/2014,Rural,Desktop,2,11,1
+Male,33,Master's Degree,Self-Employed,48860,No,Yes,03/01/2015,Rural,Desktop,9,3,5
+Female,24,Other,Student,60824,Yes,Yes,14/01/2013,Rural,Smartphone,11,13,5
+Female,55,High School Diploma,Retired,45510,Yes,Yes,02/10/2015,Urban,Tablet,16,3,3
+Female,32,Master's Degree,Self-Employed,21975,Yes,Yes,16/10/2016,Urban,Desktop,1,12,3
+Male,28,Other,Student,76564,Yes,Yes,05/08/2015,Urban,Smartphone,13,3,4
+Male,45,Master's Degree,Retired,29546,Yes,Yes,22/08/2015,Urban,Laptop,6,15,2
+Female,42,Bachelor's Degree,Unemployed,91780,No,Yes,17/07/2013,Rural,Desktop,15,9,1
+Male,54,Bachelor's Degree,Self-Employed,94588,Yes,Yes,18/10/2016,Suburban,Smartphone,7,1,1
+Male,46,PhD,Employed,97539,Yes,No,25/01/2016,Suburban,Desktop,17,12,4
+Male,27,Other,Employed,53251,Yes,Yes,06/12/2014,Rural,Desktop,14,4,3
+Male,42,High School Diploma,Retired,42538,Yes,Yes,12/03/2014,Rural,Desktop,11,2,5
+Female,18,Bachelor's Degree,Self-Employed,35176,Yes,Yes,29/12/2016,Rural,Smartphone,3,5,5
+Female,30,Other,Retired,20738,Yes,Yes,26/03/2016,Suburban,Smartphone,2,10,4
+Male,61,Other,Employed,64531,Yes,No,16/11/2015,Urban,Tablet,15,16,1
+Female,32,High School Diploma,Unemployed,95002,Yes,No,02/11/2014,Rural,Laptop,7,12,1
+Male,43,High School Diploma,Self-Employed,69400,Yes,No,22/06/2013,Urban,Desktop,8,2,1
+Female,25,Bachelor's Degree,Retired,78244,Yes,Yes,12/09/2015,Urban,Smartphone,16,9,1
+Male,39,High School Diploma,Unemployed,70009,Yes,Yes,20/05/2016,Suburban,Smartphone,4,8,5
+Male,53,Other,Student,41704,Yes,Yes,12/12/2013,Suburban,Smartphone,9,13,3
+Female,22,Bachelor's Degree,Retired,60111,Yes,Yes,02/11/2014,Suburban,Laptop,9,13,5
+Female,58,Master's Degree,Self-Employed,27971,Yes,No,11/10/2012,Rural,Desktop,16,13,2
+Female,54,PhD,Student,86083,Yes,Yes,08/12/2016,Suburban,Smartphone,10,6,1
+Female,65,High School Diploma,Self-Employed,70341,No,Yes,18/12/2016,Urban,Tablet,3,7,3
+Female,43,Master's Degree,Student,86057,Yes,No,10/12/2012,Suburban,Desktop,7,10,3
+Male,53,PhD,Unemployed,69219,No,Yes,10/02/2016,Urban,Smartphone,3,12,3
+Male,53,Master's Degree,Retired,43056,Yes,Yes,10/08/2013,Urban,Desktop,17,16,5
+Female,40,Other,Student,67233,Yes,Yes,11/03/2014,Urban,Laptop,14,13,5
+Male,42,Bachelor's Degree,Retired,55977,Yes,Yes,11/04/2015,Suburban,Laptop,3,5,1
+Male,29,Other,Employed,78256,Yes,Yes,21/01/2014,Rural,Laptop,7,16,2
+Male,42,Master's Degree,Retired,90414,Yes,Yes,19/06/2016,Suburban,Desktop,15,1,2
+Female,25,Bachelor's Degree,Student,26406,Yes,Yes,13/10/2016,Rural,Smartphone,2,15,3
+Male,58,Other,Unemployed,84546,Yes,No,18/09/2012,Urban,Tablet,15,15,3
+Male,29,Bachelor's Degree,Student,61363,No,No,06/02/2013,Urban,Desktop,8,15,5
+Female,37,PhD,Employed,98838,Yes,Yes,29/01/2012,Urban,Tablet,2,12,1
+Male,50,Master's Degree,Self-Employed,99094,Yes,Yes,17/10/2015,Rural,Laptop,9,3,5
+Female,63,High School Diploma,Student,95459,Yes,Yes,29/11/2012,Rural,Smartphone,16,4,2
+Female,38,PhD,Retired,43167,Yes,Yes,02/05/2015,Urban,Desktop,8,4,1
+Female,38,Master's Degree,Student,41717,Yes,Yes,16/04/2013,Urban,Desktop,1,2,3
+Female,53,Master's Degree,Employed,29793,Yes,Yes,26/06/2012,Urban,Smartphone,8,4,3
+Female,44,PhD,Unemployed,46835,Yes,Yes,01/08/2013,Suburban,Desktop,15,15,5
+Male,58,Other,Student,50246,Yes,Yes,25/06/2012,Urban,Tablet,9,15,1
+Male,35,Bachelor's Degree,Student,38281,No,No,02/08/2012,Urban,Laptop,4,13,1
+Male,52,Other,Self-Employed,62239,Yes,Yes,25/02/2012,Suburban,Smartphone,10,14,3
+Female,57,PhD,Self-Employed,46135,Yes,Yes,25/03/2015,Urban,Smartphone,11,10,3
+Male,31,Master's Degree,Student,57982,No,No,13/04/2013,Rural,Laptop,18,4,1
+Male,25,Other,Retired,37252,Yes,No,25/09/2014,Rural,Laptop,6,8,2
+Male,49,Other,Retired,54188,No,Yes,08/12/2012,Rural,Tablet,3,11,1
+Male,31,Other,Student,54792,Yes,Yes,10/01/2016,Urban,Laptop,16,3,3
+Male,65,Bachelor's Degree,Retired,51373,Yes,Yes,05/08/2016,Rural,Smartphone,3,11,4
+Male,48,Master's Degree,Employed,57644,Yes,Yes,16/02/2014,Suburban,Laptop,12,6,3
+Male,65,Bachelor's Degree,Self-Employed,49861,Yes,Yes,08/06/2012,Rural,Smartphone,17,13,5
+Male,25,Master's Degree,Employed,36760,Yes,Yes,03/07/2012,Suburban,Desktop,17,7,4
+Female,53,Bachelor's Degree,Self-Employed,91273,Yes,Yes,23/07/2015,Rural,Desktop,1,3,5
+Male,64,Master's Degree,Employed,64008,Yes,Yes,06/02/2015,Suburban,Smartphone,16,5,1
+Male,60,High School Diploma,Student,85264,No,No,28/05/2016,Rural,Laptop,16,16,5
+Female,24,Master's Degree,Student,95080,Yes,Yes,21/12/2015,Suburban,Tablet,4,10,1
+Female,49,PhD,Unemployed,62042,No,Yes,03/10/2016,Rural,Smartphone,16,11,5
+Male,19,Other,Student,20683,No,Yes,25/02/2012,Suburban,Laptop,3,6,2
+Female,60,High School Diploma,Self-Employed,28462,Yes,Yes,06/11/2012,Suburban,Laptop,15,8,4
+Female,20,Master's Degree,Student,29227,Yes,Yes,16/09/2014,Urban,Desktop,17,14,3
+Male,54,Master's Degree,Unemployed,29762,Yes,Yes,05/01/2013,Urban,Desktop,5,13,3
+Male,37,Other,Student,22243,Yes,Yes,11/02/2015,Rural,Smartphone,8,16,2
+Female,53,High School Diploma,Self-Employed,74647,Yes,No,30/12/2012,Suburban,Desktop,5,15,1
+Female,31,Other,Self-Employed,59173,Yes,Yes,26/01/2014,Urban,Desktop,6,13,5
+Male,31,High School Diploma,Retired,23348,Yes,Yes,06/06/2015,Rural,Tablet,3,14,1
+Female,61,Other,Self-Employed,31657,No,Yes,24/02/2012,Rural,Smartphone,11,14,1
+Male,39,PhD,Employed,68417,Yes,Yes,23/03/2016,Suburban,Smartphone,3,5,1
+Male,45,High School Diploma,Student,55183,Yes,Yes,22/06/2016,Suburban,Desktop,3,14,2
+Female,21,Other,Self-Employed,41271,No,Yes,30/09/2012,Suburban,Smartphone,5,7,1
+Male,28,Bachelor's Degree,Student,97375,Yes,Yes,10/06/2012,Urban,Laptop,3,2,2
+Female,51,Bachelor's Degree,Self-Employed,32932,Yes,No,07/01/2015,Urban,Laptop,12,6,1
+Male,46,Master's Degree,Self-Employed,69909,Yes,Yes,25/10/2012,Urban,Desktop,8,6,1
+Male,62,Master's Degree,Retired,43124,No,No,18/11/2016,Suburban,Tablet,5,1,2
+Female,23,Bachelor's Degree,Self-Employed,46238,Yes,Yes,19/12/2012,Urban,Laptop,16,3,1
+Female,20,Master's Degree,Self-Employed,59510,Yes,Yes,18/12/2013,Rural,Tablet,8,9,4
+Male,65,PhD,Self-Employed,78305,Yes,Yes,03/03/2013,Urban,Laptop,18,16,5
+Male,18,PhD,Student,55199,No,Yes,29/06/2016,Rural,Laptop,10,12,4
+Female,24,Master's Degree,Student,29091,Yes,Yes,22/10/2013,Suburban,Smartphone,5,8,3
+Male,49,PhD,Self-Employed,32960,Yes,Yes,17/04/2012,Rural,Tablet,12,8,4
+Male,38,Other,Unemployed,52879,Yes,No,29/09/2016,Rural,Desktop,8,4,5
+Female,21,High School Diploma,Student,82368,Yes,No,07/01/2016,Suburban,Tablet,5,4,4
+Male,60,PhD,Unemployed,58669,Yes,Yes,23/01/2012,Suburban,Smartphone,12,7,2
+Male,45,High School Diploma,Unemployed,41348,Yes,Yes,05/03/2013,Urban,Laptop,6,11,3
+Female,51,Master's Degree,Retired,20304,No,Yes,23/04/2013,Rural,Smartphone,12,2,3
+Male,34,Other,Self-Employed,95944,Yes,Yes,06/04/2012,Suburban,Laptop,15,9,1
+Male,29,PhD,Unemployed,23787,Yes,Yes,08/08/2016,Rural,Desktop,8,6,3
+Male,41,Master's Degree,Unemployed,77644,Yes,Yes,16/06/2012,Suburban,Laptop,14,16,2
+Male,39,Bachelor's Degree,Unemployed,93906,No,Yes,12/08/2012,Rural,Desktop,10,5,4
+Male,40,Other,Unemployed,48505,Yes,Yes,27/04/2013,Urban,Tablet,5,11,4
+Female,20,Other,Employed,95392,Yes,Yes,26/04/2012,Rural,Desktop,17,13,1
+Male,23,Other,Employed,97005,Yes,Yes,13/11/2013,Suburban,Desktop,7,10,1
+Male,35,PhD,Student,38511,Yes,Yes,01/04/2014,Suburban,Smartphone,14,2,4
+Female,52,Other,Self-Employed,41185,No,No,11/11/2016,Suburban,Tablet,15,7,4
+Male,31,Other,Self-Employed,97697,Yes,Yes,23/09/2013,Suburban,Tablet,5,14,1
+Female,23,Master's Degree,Retired,27578,Yes,Yes,29/10/2013,Rural,Tablet,6,2,1
+Female,22,PhD,Retired,85518,No,Yes,01/11/2016,Rural,Desktop,14,5,4
+Male,43,PhD,Student,73772,Yes,Yes,12/03/2012,Rural,Desktop,1,9,2
+Male,34,Other,Self-Employed,46821,Yes,Yes,06/08/2014,Suburban,Smartphone,18,15,4
+Male,38,High School Diploma,Self-Employed,95683,Yes,Yes,22/06/2016,Suburban,Smartphone,11,1,5
+Male,52,Bachelor's Degree,Unemployed,24559,Yes,Yes,16/04/2016,Suburban,Desktop,1,1,1
+Male,31,High School Diploma,Unemployed,24746,Yes,No,17/06/2014,Suburban,Smartphone,13,4,5
+Male,22,Bachelor's Degree,Student,54205,Yes,Yes,24/06/2013,Rural,Desktop,3,1,3
+Female,35,High School Diploma,Retired,26900,Yes,Yes,10/04/2014,Urban,Desktop,14,12,4
+Male,43,PhD,Unemployed,26382,Yes,Yes,12/10/2014,Urban,Smartphone,15,8,3
+Male,63,PhD,Student,99029,Yes,Yes,17/11/2012,Suburban,Laptop,17,4,4
+Female,48,Bachelor's Degree,Retired,85023,Yes,Yes,31/01/2013,Urban,Tablet,15,6,4
+Female,49,Other,Unemployed,24976,Yes,Yes,16/04/2013,Rural,Laptop,15,12,1
+Female,36,High School Diploma,Self-Employed,97470,Yes,Yes,02/02/2014,Urban,Tablet,3,13,3
+Female,19,Master's Degree,Retired,84733,Yes,No,27/08/2016,Urban,Desktop,18,15,2
+Male,63,PhD,Retired,74448,Yes,Yes,31/12/2013,Suburban,Smartphone,8,14,4
+Male,21,Other,Student,27863,Yes,Yes,01/04/2013,Suburban,Smartphone,9,6,2
+Female,54,PhD,Student,58618,Yes,Yes,13/07/2015,Suburban,Tablet,16,8,1
+Male,19,High School Diploma,Unemployed,25563,No,Yes,21/11/2014,Suburban,Smartphone,14,11,4
+Male,55,High School Diploma,Self-Employed,88426,Yes,Yes,10/10/2014,Urban,Laptop,3,11,3
+Male,59,Bachelor's Degree,Unemployed,77450,Yes,Yes,22/09/2013,Rural,Tablet,15,5,4
+Female,20,Bachelor's Degree,Student,40066,Yes,Yes,17/09/2015,Suburban,Laptop,15,10,3
+Male,60,Bachelor's Degree,Student,82443,Yes,Yes,18/06/2015,Urban,Desktop,1,4,3
+Female,44,Master's Degree,Retired,64447,Yes,Yes,11/09/2013,Urban,Desktop,1,15,2
+Male,65,Other,Employed,47882,Yes,Yes,17/03/2012,Rural,Tablet,18,4,2
+Male,37,Master's Degree,Unemployed,78522,No,Yes,17/11/2013,Urban,Laptop,18,16,1
+Male,41,High School Diploma,Employed,83127,No,Yes,08/05/2012,Rural,Desktop,12,15,5
+Female,30,Other,Unemployed,82264,Yes,Yes,09/11/2016,Urban,Tablet,1,10,3
+Female,41,High School Diploma,Student,89944,Yes,Yes,28/09/2014,Urban,Laptop,12,7,2
+Female,33,PhD,Employed,77743,No,Yes,06/02/2015,Suburban,Tablet,18,1,1
+Male,54,High School Diploma,Student,99470,No,Yes,12/08/2012,Urban,Tablet,15,3,1
+Male,31,PhD,Retired,62529,Yes,Yes,15/06/2013,Urban,Laptop,9,12,5
+Female,48,High School Diploma,Student,73173,No,Yes,06/10/2013,Urban,Laptop,8,14,5
+Male,52,PhD,Student,59739,Yes,Yes,06/07/2012,Suburban,Laptop,11,1,1
+Male,59,Master's Degree,Retired,21986,Yes,Yes,07/11/2016,Rural,Smartphone,18,12,4
+Female,22,Other,Unemployed,48489,Yes,Yes,23/06/2015,Rural,Desktop,15,5,1
+Female,19,PhD,Self-Employed,34191,Yes,Yes,28/06/2015,Rural,Smartphone,7,5,3
+Female,56,Bachelor's Degree,Employed,83747,Yes,Yes,06/10/2016,Urban,Tablet,12,15,1
+Male,30,Master's Degree,Employed,99448,No,Yes,29/10/2014,Urban,Tablet,9,4,4
+Male,61,PhD,Retired,96724,Yes,Yes,28/02/2013,Urban,Laptop,8,15,4
+Female,55,Bachelor's Degree,Retired,25269,No,Yes,15/02/2015,Suburban,Laptop,2,4,2
+Male,55,Master's Degree,Unemployed,98742,No,Yes,07/11/2015,Rural,Tablet,18,7,1
+Male,65,High School Diploma,Student,46369,Yes,Yes,29/10/2016,Suburban,Smartphone,4,9,5
+Female,44,Master's Degree,Student,59874,No,Yes,22/06/2013,Rural,Tablet,12,1,2
+Male,31,High School Diploma,Retired,65723,No,Yes,18/02/2016,Urban,Laptop,16,15,5
+Female,47,Other,Self-Employed,34520,Yes,Yes,30/05/2012,Suburban,Desktop,11,3,3
+Female,56,Bachelor's Degree,Retired,27658,Yes,Yes,15/08/2014,Rural,Laptop,4,15,5
+Female,38,High School Diploma,Unemployed,91086,Yes,Yes,06/12/2015,Rural,Laptop,13,16,3
+Male,61,Other,Student,99776,Yes,Yes,21/09/2015,Rural,Laptop,16,10,1
+Female,39,PhD,Retired,58619,Yes,Yes,08/08/2016,Rural,Tablet,13,3,1
+Female,26,PhD,Unemployed,55397,Yes,No,28/03/2015,Suburban,Smartphone,5,9,5
+Male,47,PhD,Student,34815,Yes,No,06/12/2012,Urban,Desktop,15,14,3
+Male,28,Master's Degree,Student,39434,Yes,Yes,03/09/2012,Suburban,Laptop,16,4,4
+Male,44,Master's Degree,Employed,38084,Yes,Yes,12/09/2015,Urban,Tablet,6,13,5
+Male,54,Other,Employed,56823,Yes,Yes,28/04/2015,Rural,Smartphone,5,4,5
+Female,56,PhD,Retired,23129,Yes,Yes,27/12/2012,Rural,Desktop,9,15,2
+Male,24,Bachelor's Degree,Self-Employed,90830,Yes,Yes,15/02/2016,Urban,Smartphone,7,5,1
+Male,22,Other,Self-Employed,82850,Yes,Yes,06/10/2016,Suburban,Desktop,18,15,4
+Male,65,PhD,Self-Employed,58587,Yes,Yes,10/09/2014,Suburban,Tablet,9,13,4
+Male,32,High School Diploma,Self-Employed,94014,Yes,Yes,20/03/2013,Suburban,Tablet,17,14,3
+Female,31,Bachelor's Degree,Unemployed,85575,No,Yes,12/08/2015,Suburban,Laptop,10,12,5
+Female,44,Other,Employed,59905,Yes,Yes,19/12/2012,Urban,Tablet,11,4,3
+Female,54,Bachelor's Degree,Retired,85055,Yes,Yes,28/09/2014,Suburban,Smartphone,13,7,1
+Male,22,High School Diploma,Self-Employed,23193,Yes,Yes,10/06/2013,Suburban,Smartphone,2,10,5
+Female,47,Master's Degree,Retired,91655,Yes,Yes,28/06/2012,Suburban,Tablet,7,13,4
+Female,31,Bachelor's Degree,Employed,96188,Yes,Yes,19/02/2014,Urban,Smartphone,1,2,5
+Female,50,Other,Unemployed,38021,Yes,No,10/06/2014,Urban,Smartphone,7,13,3
+Female,34,Other,Employed,32960,Yes,Yes,29/06/2012,Suburban,Tablet,16,9,1
+Male,56,Bachelor's Degree,Retired,65178,Yes,Yes,29/02/2012,Suburban,Tablet,16,16,3
+Female,47,Other,Retired,85630,Yes,Yes,29/07/2014,Suburban,Smartphone,4,16,2
+Female,47,PhD,Self-Employed,55610,Yes,Yes,16/03/2016,Suburban,Desktop,11,15,4
+Female,56,PhD,Self-Employed,26525,Yes,No,09/12/2012,Urban,Tablet,16,5,3
+Male,25,Other,Retired,99729,Yes,No,30/05/2016,Suburban,Tablet,18,9,5
+Female,39,Master's Degree,Unemployed,77552,Yes,Yes,20/10/2016,Urban,Tablet,16,8,1
+Male,35,PhD,Unemployed,73813,No,Yes,22/02/2016,Rural,Tablet,12,16,1
+Male,39,High School Diploma,Self-Employed,49675,Yes,Yes,13/06/2016,Suburban,Tablet,8,5,5
+Female,61,High School Diploma,Employed,60058,No,Yes,18/01/2016,Rural,Laptop,3,9,1
+Male,33,Other,Student,55107,Yes,No,03/08/2012,Rural,Laptop,13,1,5
+Male,43,Other,Retired,84218,Yes,No,11/02/2015,Urban,Tablet,5,11,4
+Male,26,Other,Student,69476,Yes,Yes,10/02/2015,Rural,Tablet,8,3,4
+Female,24,Other,Employed,31138,Yes,Yes,01/11/2014,Suburban,Laptop,14,8,2
+Female,29,Bachelor's Degree,Unemployed,43953,No,No,18/06/2015,Suburban,Desktop,12,12,3
+Male,56,Other,Retired,20012,No,No,29/05/2012,Suburban,Tablet,8,8,1
+Female,35,High School Diploma,Retired,29715,Yes,Yes,12/05/2013,Suburban,Tablet,2,13,4
+Male,22,High School Diploma,Student,36479,Yes,No,31/05/2013,Rural,Laptop,9,7,3
+Male,53,Master's Degree,Student,87673,Yes,No,15/06/2013,Rural,Tablet,2,11,5
+Female,21,PhD,Self-Employed,56884,Yes,No,27/09/2015,Urban,Laptop,9,6,5
+Female,31,High School Diploma,Retired,94086,No,Yes,17/03/2014,Suburban,Smartphone,9,8,4
+Female,40,Other,Student,94447,Yes,Yes,28/03/2014,Rural,Desktop,12,10,4
+Male,49,Other,Student,65072,Yes,Yes,09/09/2012,Suburban,Laptop,12,11,4
+Male,46,PhD,Employed,90389,Yes,Yes,25/12/2014,Suburban,Laptop,12,11,5
+Female,25,PhD,Retired,78532,Yes,Yes,14/06/2013,Urban,Desktop,4,12,2
+Female,22,PhD,Student,28989,Yes,Yes,18/10/2016,Rural,Laptop,2,4,1
+Female,40,PhD,Employed,25781,Yes,Yes,03/02/2014,Urban,Smartphone,9,9,4
+Female,56,Bachelor's Degree,Retired,26357,Yes,Yes,15/03/2016,Suburban,Smartphone,4,6,2
+Male,49,PhD,Retired,81853,Yes,Yes,06/04/2012,Rural,Smartphone,13,6,1
+Female,39,Bachelor's Degree,Unemployed,84490,Yes,Yes,18/07/2015,Urban,Smartphone,7,14,1
+Female,42,High School Diploma,Employed,83041,No,No,26/09/2013,Suburban,Tablet,2,1,2
+Male,29,Master's Degree,Unemployed,73331,Yes,Yes,28/01/2014,Urban,Desktop,13,7,1
+Female,61,Bachelor's Degree,Student,45588,Yes,Yes,02/03/2016,Rural,Desktop,18,1,3
+Male,61,Bachelor's Degree,Retired,31206,Yes,Yes,23/05/2012,Rural,Smartphone,1,9,2
+Male,27,High School Diploma,Self-Employed,43398,No,Yes,08/11/2015,Rural,Desktop,2,5,2
+Male,39,Master's Degree,Student,87485,Yes,No,09/08/2014,Urban,Laptop,17,3,3
+Male,44,High School Diploma,Retired,25836,Yes,Yes,26/02/2013,Suburban,Desktop,13,8,5
+Male,39,PhD,Unemployed,27815,Yes,Yes,04/02/2015,Suburban,Laptop,14,4,2
+Female,19,High School Diploma,Unemployed,21281,Yes,Yes,07/10/2012,Rural,Smartphone,8,12,1
+Female,36,High School Diploma,Unemployed,61106,No,No,28/08/2013,Suburban,Tablet,16,2,3
+Female,61,Master's Degree,Self-Employed,89229,Yes,Yes,21/06/2014,Urban,Smartphone,2,12,4
+Male,64,Bachelor's Degree,Self-Employed,28702,No,Yes,13/10/2013,Suburban,Desktop,4,13,5
+Female,33,Other,Self-Employed,90149,Yes,Yes,01/05/2013,Suburban,Smartphone,18,7,3
+Female,19,PhD,Retired,70137,Yes,Yes,10/07/2016,Rural,Tablet,16,13,1
+Male,46,Bachelor's Degree,Retired,40094,No,Yes,03/08/2014,Rural,Desktop,18,2,2
+Female,47,High School Diploma,Employed,93832,Yes,Yes,03/07/2016,Suburban,Smartphone,7,16,1
+Male,58,Other,Employed,63023,Yes,Yes,06/05/2012,Urban,Desktop,6,10,2
+Male,52,PhD,Employed,91721,Yes,Yes,15/06/2015,Rural,Desktop,1,13,3
+Female,49,Bachelor's Degree,Student,83809,Yes,Yes,23/04/2015,Rural,Desktop,2,5,1
+Female,32,High School Diploma,Self-Employed,25698,Yes,Yes,04/02/2014,Urban,Tablet,3,4,1
+Female,35,Master's Degree,Retired,54586,Yes,Yes,13/04/2012,Suburban,Laptop,10,16,1
+Male,55,Other,Employed,47775,Yes,Yes,22/03/2016,Urban,Smartphone,8,9,2
+Female,18,Other,Unemployed,98247,Yes,Yes,20/09/2014,Rural,Laptop,11,15,4
+Female,33,Other,Unemployed,51570,Yes,Yes,27/03/2014,Urban,Laptop,7,1,4
+Male,28,PhD,Student,48988,Yes,No,02/03/2012,Suburban,Laptop,2,3,3
+Male,47,High School Diploma,Self-Employed,97109,Yes,Yes,15/03/2013,Urban,Laptop,8,15,4
+Male,65,Other,Unemployed,80297,No,Yes,09/11/2013,Suburban,Laptop,17,3,5
+Male,41,Other,Self-Employed,30368,Yes,Yes,29/08/2015,Rural,Smartphone,4,1,2
+Female,28,Other,Employed,42067,Yes,Yes,21/01/2012,Urban,Tablet,18,10,2
+Male,36,High School Diploma,Retired,87047,Yes,Yes,17/11/2015,Suburban,Smartphone,2,9,4
+Female,49,Bachelor's Degree,Self-Employed,65222,Yes,Yes,22/11/2016,Suburban,Desktop,12,11,4
+Female,65,Other,Student,27229,Yes,Yes,17/03/2014,Suburban,Laptop,13,12,5
+Female,45,High School Diploma,Employed,23948,Yes,Yes,07/02/2016,Rural,Smartphone,14,5,3
+Female,20,PhD,Unemployed,45956,Yes,Yes,24/05/2015,Suburban,Desktop,15,13,3
+Female,44,Other,Retired,65705,Yes,Yes,10/08/2012,Suburban,Tablet,10,14,2
+Female,50,Other,Retired,62372,Yes,Yes,07/10/2014,Suburban,Laptop,11,14,2
+Female,41,High School Diploma,Student,80279,Yes,Yes,29/08/2014,Urban,Smartphone,18,5,1
+Female,58,PhD,Unemployed,70385,Yes,Yes,02/08/2012,Suburban,Smartphone,17,1,1
+Male,43,Master's Degree,Retired,97381,Yes,No,24/03/2014,Urban,Desktop,7,6,5
+Female,47,Other,Student,48417,Yes,Yes,15/05/2013,Rural,Smartphone,9,10,5
+Female,61,Master's Degree,Student,58786,Yes,Yes,14/05/2016,Suburban,Desktop,4,13,1
+Male,47,High School Diploma,Unemployed,70444,Yes,No,09/08/2013,Urban,Tablet,14,10,2
+Male,19,High School Diploma,Student,48832,Yes,Yes,18/08/2012,Urban,Laptop,1,9,2
+Male,21,Bachelor's Degree,Student,22948,No,Yes,14/08/2012,Urban,Smartphone,6,8,5
+Female,47,Bachelor's Degree,Unemployed,31077,Yes,Yes,24/07/2015,Urban,Smartphone,11,13,4
+Female,39,Other,Employed,76159,Yes,Yes,04/03/2016,Urban,Desktop,17,9,5
+Male,54,Bachelor's Degree,Unemployed,76469,Yes,Yes,08/12/2016,Urban,Tablet,14,2,4
+Female,55,Master's Degree,Self-Employed,89476,Yes,Yes,09/04/2016,Suburban,Smartphone,15,10,5
+Female,64,High School Diploma,Employed,26159,No,Yes,25/08/2013,Rural,Laptop,2,9,2
+Female,20,Master's Degree,Unemployed,97682,Yes,No,30/05/2016,Rural,Tablet,1,9,2
+Male,23,High School Diploma,Employed,40995,Yes,Yes,23/11/2015,Rural,Tablet,18,8,2
+Male,20,Master's Degree,Self-Employed,82922,Yes,Yes,20/05/2013,Suburban,Laptop,17,12,4
+Male,55,High School Diploma,Student,94316,Yes,Yes,14/10/2012,Suburban,Tablet,10,12,5
+Female,60,Bachelor's Degree,Unemployed,71322,Yes,Yes,07/06/2016,Suburban,Desktop,12,8,5
+Female,24,Other,Employed,24750,Yes,No,17/05/2015,Suburban,Desktop,5,10,4
+Male,21,High School Diploma,Retired,99729,Yes,Yes,26/11/2014,Rural,Tablet,12,8,4
+Female,39,High School Diploma,Student,24591,Yes,Yes,01/07/2012,Urban,Smartphone,12,2,2
+Female,34,High School Diploma,Unemployed,94455,Yes,Yes,30/12/2012,Suburban,Tablet,14,1,5
+Female,51,High School Diploma,Student,81935,Yes,Yes,28/12/2016,Urban,Smartphone,6,1,1
+Male,26,High School Diploma,Employed,73719,Yes,No,26/06/2014,Rural,Smartphone,16,2,4
+Male,26,Other,Unemployed,52517,Yes,Yes,19/01/2015,Suburban,Desktop,10,1,4
+Male,45,PhD,Self-Employed,82321,Yes,Yes,16/09/2016,Rural,Desktop,13,8,5
+Female,20,PhD,Employed,42239,No,Yes,08/05/2013,Suburban,Smartphone,12,5,1
+Female,31,Master's Degree,Retired,45019,Yes,Yes,29/03/2015,Urban,Tablet,12,1,4
+Male,24,High School Diploma,Student,25589,Yes,Yes,03/09/2013,Urban,Smartphone,10,7,1
+Female,33,PhD,Retired,22778,Yes,Yes,30/12/2014,Rural,Desktop,2,12,1
+Male,51,PhD,Unemployed,76810,No,Yes,31/03/2013,Suburban,Tablet,7,13,5
+Male,52,Other,Employed,70689,Yes,Yes,17/04/2016,Suburban,Smartphone,16,6,5
+Male,47,Other,Employed,28308,Yes,Yes,03/05/2013,Suburban,Laptop,8,15,1
+Male,22,PhD,Student,34452,Yes,Yes,09/07/2013,Urban,Smartphone,8,14,3
+Female,59,Bachelor's Degree,Student,55960,No,No,07/06/2012,Urban,Laptop,14,9,3
+Male,39,PhD,Student,41311,Yes,No,02/03/2012,Suburban,Smartphone,16,15,5
+Male,59,Other,Retired,85477,Yes,No,17/11/2014,Rural,Laptop,4,14,5
+Male,47,Other,Self-Employed,36197,Yes,Yes,19/10/2012,Rural,Laptop,18,15,5
+Male,32,Bachelor's Degree,Self-Employed,70038,Yes,Yes,20/02/2016,Suburban,Desktop,7,1,1
+Female,28,Master's Degree,Unemployed,20378,No,No,27/12/2012,Rural,Smartphone,14,10,5
+Female,33,Master's Degree,Unemployed,87871,Yes,Yes,06/11/2012,Urban,Desktop,1,2,4
+Male,64,PhD,Self-Employed,49961,Yes,Yes,01/01/2015,Suburban,Smartphone,7,2,1
+Male,46,PhD,Student,57140,Yes,Yes,28/11/2012,Rural,Desktop,6,2,4
+Male,50,PhD,Student,64423,Yes,Yes,26/02/2014,Rural,Laptop,8,15,2
+Female,49,PhD,Self-Employed,20317,Yes,Yes,18/06/2015,Suburban,Tablet,17,15,3
+Male,30,Other,Retired,36346,Yes,Yes,01/03/2015,Urban,Desktop,6,7,4
+Male,52,Bachelor's Degree,Retired,51447,Yes,Yes,24/04/2014,Suburban,Laptop,14,12,3
+Male,30,Other,Self-Employed,94166,Yes,Yes,17/04/2013,Rural,Desktop,13,2,2
+Male,65,Other,Employed,89490,Yes,Yes,17/06/2012,Rural,Tablet,12,2,1
+Female,29,Bachelor's Degree,Retired,72307,Yes,Yes,03/08/2014,Suburban,Smartphone,13,5,3
+Male,28,Bachelor's Degree,Employed,46476,Yes,Yes,05/09/2016,Rural,Laptop,12,1,2
+Male,54,PhD,Employed,37673,Yes,Yes,01/12/2016,Urban,Desktop,9,6,1
+Female,61,Bachelor's Degree,Retired,35437,No,No,22/08/2012,Urban,Desktop,4,3,5
+Female,40,PhD,Unemployed,28137,No,Yes,21/07/2016,Suburban,Desktop,4,6,2
+Female,61,Master's Degree,Self-Employed,86949,Yes,Yes,23/04/2015,Rural,Tablet,9,2,3
+Female,58,Bachelor's Degree,Retired,34595,Yes,No,08/01/2012,Suburban,Smartphone,8,7,5
+Male,26,Master's Degree,Retired,39610,Yes,Yes,20/01/2015,Urban,Tablet,8,9,5
+Female,32,Other,Retired,25950,Yes,Yes,01/09/2015,Rural,Laptop,5,2,4
+Male,32,Bachelor's Degree,Retired,96190,Yes,Yes,08/04/2015,Suburban,Tablet,14,9,3
+Female,52,High School Diploma,Employed,22883,Yes,Yes,12/09/2014,Suburban,Laptop,11,13,4
+Male,24,Master's Degree,Self-Employed,46216,Yes,Yes,18/01/2014,Suburban,Desktop,10,9,5
+Female,38,High School Diploma,Employed,27918,Yes,Yes,24/07/2015,Suburban,Tablet,7,7,4
+Male,56,High School Diploma,Student,77335,Yes,Yes,17/12/2012,Rural,Tablet,15,7,2
+Female,34,Other,Unemployed,50551,Yes,Yes,20/10/2014,Suburban,Desktop,8,8,3
+Female,41,Bachelor's Degree,Employed,73138,Yes,No,17/08/2016,Urban,Smartphone,9,9,2
+Female,23,Master's Degree,Retired,78385,Yes,Yes,11/10/2015,Rural,Tablet,9,7,3
+Female,37,Master's Degree,Self-Employed,84892,Yes,Yes,27/07/2012,Suburban,Laptop,12,14,4
+Male,36,Other,Self-Employed,23211,No,Yes,29/12/2016,Urban,Laptop,2,9,5
+Female,30,Master's Degree,Student,58293,Yes,No,18/12/2014,Suburban,Tablet,4,5,1
+Male,32,Other,Employed,97213,Yes,Yes,24/08/2014,Rural,Smartphone,14,3,2
+Male,36,Other,Employed,20086,No,Yes,06/01/2015,Suburban,Tablet,5,13,3
+Female,54,Other,Retired,58552,Yes,Yes,21/05/2016,Urban,Tablet,17,12,5
+Female,59,High School Diploma,Unemployed,69566,Yes,Yes,10/12/2012,Suburban,Laptop,17,8,3
+Male,37,Bachelor's Degree,Self-Employed,64468,Yes,Yes,08/10/2014,Urban,Tablet,12,14,1
+Male,61,Master's Degree,Student,66713,No,Yes,21/09/2013,Rural,Smartphone,3,13,1
+Male,60,Other,Retired,62482,Yes,Yes,09/11/2015,Rural,Smartphone,17,15,1
+Female,20,PhD,Student,51620,Yes,Yes,26/05/2012,Rural,Smartphone,17,11,1
+Male,27,Bachelor's Degree,Retired,55458,Yes,Yes,13/08/2014,Suburban,Desktop,13,11,5
+Female,28,Master's Degree,Employed,44188,Yes,Yes,29/06/2012,Suburban,Smartphone,15,4,1
+Female,65,PhD,Student,80499,Yes,Yes,06/05/2016,Suburban,Desktop,6,12,1
+Male,60,PhD,Retired,32335,Yes,No,02/11/2016,Suburban,Smartphone,1,4,1
+Female,50,Other,Self-Employed,60343,No,Yes,31/10/2012,Urban,Tablet,6,7,2
+Female,23,Bachelor's Degree,Retired,26800,No,Yes,14/07/2012,Rural,Smartphone,3,3,1
+Female,31,High School Diploma,Employed,43844,Yes,Yes,22/07/2016,Rural,Laptop,3,16,1
+Male,33,Other,Student,52618,Yes,Yes,29/03/2012,Suburban,Desktop,9,11,3
+Male,42,Bachelor's Degree,Self-Employed,27300,Yes,Yes,26/11/2012,Rural,Desktop,12,5,1
+Male,31,High School Diploma,Self-Employed,39916,Yes,No,21/09/2013,Suburban,Tablet,3,4,3
+Male,27,High School Diploma,Student,46446,No,Yes,05/05/2014,Suburban,Smartphone,13,6,2
+Male,33,High School Diploma,Retired,58371,Yes,Yes,21/11/2013,Suburban,Desktop,2,2,2
+Male,18,Master's Degree,Unemployed,63014,Yes,No,31/05/2012,Suburban,Tablet,6,3,3
+Male,40,Master's Degree,Student,84129,Yes,Yes,15/07/2012,Rural,Laptop,8,3,1
+Male,29,High School Diploma,Retired,64415,Yes,Yes,22/11/2016,Urban,Desktop,11,16,4
+Female,51,Bachelor's Degree,Self-Employed,62877,Yes,No,26/01/2012,Suburban,Laptop,7,3,1
+Female,46,Bachelor's Degree,Unemployed,79860,Yes,Yes,22/09/2013,Suburban,Laptop,3,11,3
+Male,47,Bachelor's Degree,Unemployed,36605,Yes,Yes,14/06/2012,Suburban,Desktop,4,1,1
+Female,65,High School Diploma,Student,21116,Yes,No,21/12/2014,Urban,Laptop,4,13,3
+Female,63,PhD,Retired,34256,Yes,No,23/06/2014,Suburban,Desktop,1,1,3
+Female,22,PhD,Student,55662,Yes,Yes,28/02/2016,Suburban,Laptop,15,16,5
+Male,38,Master's Degree,Retired,89152,Yes,Yes,01/02/2014,Suburban,Smartphone,8,13,3
+Female,30,High School Diploma,Employed,30592,Yes,Yes,29/01/2014,Suburban,Desktop,4,16,4
+Male,59,Bachelor's Degree,Unemployed,73453,Yes,Yes,23/05/2015,Suburban,Smartphone,18,13,2
+Male,37,Bachelor's Degree,Unemployed,94562,Yes,Yes,24/07/2014,Urban,Desktop,3,10,4
+Female,42,Master's Degree,Retired,54779,Yes,Yes,12/10/2015,Suburban,Laptop,14,11,3
+Male,46,Master's Degree,Employed,78475,Yes,Yes,05/09/2015,Suburban,Laptop,18,13,5
+Female,27,Other,Employed,73022,Yes,Yes,03/05/2016,Urban,Tablet,15,14,1
+Male,59,PhD,Retired,75324,No,Yes,02/07/2016,Suburban,Tablet,8,10,1
+Female,23,PhD,Employed,27248,Yes,Yes,17/11/2013,Urban,Desktop,6,3,3
+Male,61,PhD,Student,78748,No,Yes,08/08/2012,Rural,Smartphone,16,7,5
+Female,35,High School Diploma,Employed,20409,Yes,Yes,13/06/2012,Suburban,Tablet,6,5,4
+Female,22,Master's Degree,Self-Employed,36853,Yes,Yes,15/02/2013,Urban,Desktop,14,7,5
+Male,29,High School Diploma,Self-Employed,91594,No,Yes,27/02/2012,Urban,Desktop,2,4,2
+Male,25,Other,Self-Employed,83286,Yes,Yes,28/09/2012,Suburban,Tablet,12,16,2
+Male,53,PhD,Employed,98287,No,Yes,06/10/2016,Suburban,Laptop,7,14,4
+Female,25,High School Diploma,Self-Employed,49400,Yes,No,18/08/2012,Suburban,Desktop,8,11,3
+Female,58,Other,Student,47265,Yes,Yes,23/05/2012,Rural,Laptop,2,14,4
+Female,61,PhD,Retired,32323,Yes,Yes,01/12/2012,Urban,Tablet,10,12,5
+Male,52,Other,Unemployed,98609,Yes,Yes,29/11/2016,Urban,Tablet,10,7,1
+Male,58,Master's Degree,Retired,79421,Yes,Yes,12/11/2013,Rural,Laptop,17,5,3
+Female,26,Bachelor's Degree,Unemployed,41147,Yes,No,09/07/2015,Rural,Desktop,7,2,5
+Male,63,Bachelor's Degree,Employed,40873,Yes,No,11/04/2015,Suburban,Desktop,15,3,1
+Female,34,Bachelor's Degree,Unemployed,91588,Yes,Yes,04/02/2015,Rural,Laptop,9,16,1
+Male,21,Master's Degree,Student,33423,Yes,Yes,21/05/2015,Suburban,Tablet,13,16,5
+Male,49,Other,Unemployed,99328,Yes,Yes,08/01/2015,Urban,Desktop,18,14,3
+Female,27,Other,Self-Employed,91052,Yes,Yes,09/02/2014,Rural,Laptop,11,3,1
+Male,26,High School Diploma,Self-Employed,93362,Yes,Yes,12/08/2012,Rural,Smartphone,9,8,1
+Male,47,PhD,Unemployed,74877,Yes,Yes,24/07/2012,Rural,Smartphone,9,16,4
+Female,65,Other,Self-Employed,87732,Yes,Yes,16/10/2014,Rural,Tablet,17,5,3
+Male,62,High School Diploma,Retired,21407,No,Yes,11/06/2016,Urban,Tablet,8,10,1
+Male,48,Master's Degree,Unemployed,63201,No,Yes,10/03/2014,Urban,Tablet,18,12,2
+Female,41,High School Diploma,Employed,91618,Yes,Yes,23/01/2016,Rural,Desktop,2,15,5
+Female,46,PhD,Self-Employed,37759,No,Yes,28/09/2013,Suburban,Smartphone,15,10,3
+Male,59,Master's Degree,Self-Employed,38977,Yes,Yes,14/03/2013,Rural,Desktop,11,10,5
+Male,52,Other,Employed,97065,Yes,Yes,20/10/2012,Suburban,Tablet,10,3,2
+Male,54,Master's Degree,Employed,77132,Yes,Yes,01/07/2013,Suburban,Smartphone,1,9,4
+Female,38,Bachelor's Degree,Unemployed,56014,Yes,Yes,22/02/2015,Urban,Desktop,2,9,4
+Male,54,PhD,Unemployed,77511,Yes,Yes,18/09/2012,Rural,Tablet,1,15,1
+Female,22,Other,Employed,80936,No,Yes,22/01/2016,Urban,Desktop,16,12,2
+Male,60,High School Diploma,Retired,71062,Yes,Yes,31/12/2014,Rural,Desktop,6,1,1
+Male,49,Master's Degree,Retired,21571,Yes,Yes,10/03/2016,Urban,Smartphone,17,1,2
+Female,20,High School Diploma,Employed,37215,Yes,Yes,11/07/2012,Rural,Laptop,7,3,1
+Female,40,High School Diploma,Retired,59471,Yes,Yes,23/11/2012,Rural,Desktop,7,6,5
+Male,52,Other,Retired,99855,Yes,Yes,29/04/2012,Rural,Tablet,3,3,2
+Male,35,High School Diploma,Unemployed,92397,Yes,No,26/09/2013,Suburban,Smartphone,2,8,1
+Male,65,Master's Degree,Unemployed,64309,Yes,No,06/02/2013,Suburban,Tablet,3,2,1
+Male,33,Bachelor's Degree,Employed,57670,Yes,Yes,02/11/2016,Suburban,Smartphone,1,14,2
+Male,18,Other,Unemployed,80234,Yes,Yes,07/10/2013,Suburban,Laptop,17,15,3
+Female,63,Bachelor's Degree,Retired,24034,Yes,Yes,14/11/2015,Suburban,Tablet,10,11,3
+Male,51,Master's Degree,Unemployed,77757,Yes,Yes,11/12/2015,Urban,Smartphone,3,16,5
+Female,59,High School Diploma,Employed,27674,Yes,Yes,23/01/2016,Suburban,Desktop,2,4,4
+Female,44,Master's Degree,Retired,37164,Yes,No,14/09/2015,Rural,Smartphone,10,11,5
+Male,18,Bachelor's Degree,Unemployed,35673,Yes,No,19/01/2014,Suburban,Tablet,14,13,2
+Female,29,High School Diploma,Retired,20403,Yes,Yes,22/06/2013,Urban,Laptop,14,4,3
+Female,60,High School Diploma,Student,32583,Yes,Yes,08/12/2014,Rural,Laptop,3,7,4
+Male,48,PhD,Employed,50822,Yes,Yes,26/05/2014,Rural,Tablet,10,3,1
+Male,22,High School Diploma,Employed,35840,Yes,No,01/06/2015,Urban,Smartphone,14,16,2
+Female,59,Master's Degree,Employed,93947,Yes,Yes,10/07/2016,Rural,Desktop,16,9,4
+Female,23,Other,Retired,86563,Yes,No,29/03/2014,Suburban,Desktop,7,16,2
+Male,25,High School Diploma,Self-Employed,25914,Yes,Yes,11/06/2014,Suburban,Tablet,10,2,2
+Female,52,High School Diploma,Student,29113,No,Yes,19/07/2016,Rural,Laptop,17,14,4
+Male,53,Bachelor's Degree,Student,26513,Yes,Yes,02/08/2012,Suburban,Desktop,8,12,1
+Female,28,Bachelor's Degree,Unemployed,20401,No,No,18/09/2015,Urban,Desktop,12,13,1
+Male,64,PhD,Self-Employed,58015,Yes,Yes,07/08/2015,Suburban,Smartphone,3,6,4
+Male,35,Master's Degree,Employed,65707,Yes,Yes,17/01/2016,Suburban,Tablet,2,9,3
+Male,27,PhD,Unemployed,31705,Yes,Yes,05/11/2013,Suburban,Laptop,8,15,2
+Male,48,High School Diploma,Unemployed,58919,Yes,Yes,16/04/2016,Suburban,Desktop,1,12,3
+Female,23,Master's Degree,Retired,58967,Yes,Yes,02/10/2012,Suburban,Smartphone,8,12,2
+Male,48,Other,Unemployed,20096,Yes,Yes,20/12/2014,Urban,Tablet,17,14,5
+Male,43,Other,Employed,38598,Yes,Yes,11/11/2012,Rural,Laptop,5,4,2
+Female,24,Master's Degree,Student,86449,Yes,Yes,13/09/2015,Urban,Desktop,2,11,2
+Male,62,PhD,Retired,30280,Yes,Yes,12/11/2015,Suburban,Desktop,6,11,3
+Male,22,Other,Unemployed,61701,Yes,Yes,16/03/2016,Suburban,Tablet,5,10,2
+Female,28,Other,Student,98464,Yes,Yes,01/12/2016,Suburban,Laptop,7,14,5
+Female,29,PhD,Self-Employed,81860,Yes,Yes,08/03/2012,Urban,Desktop,5,9,1
+Male,27,Other,Student,36643,Yes,Yes,09/04/2012,Suburban,Smartphone,17,1,3
+Female,36,PhD,Student,42040,Yes,Yes,11/02/2013,Rural,Desktop,15,9,3
+Female,45,Master's Degree,Self-Employed,81217,Yes,Yes,01/06/2014,Urban,Desktop,18,16,4
+Female,28,High School Diploma,Unemployed,73781,Yes,Yes,16/08/2013,Rural,Smartphone,4,3,5
+Female,23,Other,Retired,76853,No,Yes,24/07/2013,Suburban,Laptop,5,2,5
+Female,18,PhD,Student,49660,Yes,Yes,13/04/2012,Rural,Smartphone,18,9,3
+Male,53,Bachelor's Degree,Employed,89178,No,Yes,09/07/2014,Urban,Desktop,15,4,1
+Female,22,Other,Employed,66938,Yes,Yes,25/08/2014,Rural,Tablet,15,13,3
+Male,59,Other,Self-Employed,67453,No,Yes,13/12/2012,Rural,Tablet,6,6,2
+Female,24,Other,Student,29324,Yes,Yes,06/06/2014,Suburban,Laptop,13,6,2
+Male,35,High School Diploma,Retired,20880,Yes,Yes,08/11/2013,Rural,Tablet,6,15,4
+Female,54,Master's Degree,Employed,50664,Yes,No,23/05/2016,Urban,Laptop,12,8,3
+Female,32,PhD,Self-Employed,82883,Yes,Yes,18/07/2015,Rural,Tablet,1,5,3
+Female,20,Master's Degree,Student,57263,No,Yes,22/04/2016,Rural,Tablet,16,14,4
+Female,42,Bachelor's Degree,Retired,27592,Yes,Yes,18/06/2015,Rural,Desktop,12,12,1
+Female,45,Master's Degree,Unemployed,36521,Yes,No,30/12/2016,Suburban,Laptop,7,11,1
+Male,64,Bachelor's Degree,Unemployed,58343,Yes,Yes,12/07/2012,Suburban,Tablet,2,16,3
+Female,25,High School Diploma,Student,88546,No,Yes,12/12/2013,Suburban,Laptop,15,11,5
+Male,56,Bachelor's Degree,Student,66037,Yes,Yes,05/01/2016,Rural,Desktop,9,7,1
+Female,29,Bachelor's Degree,Student,29428,No,Yes,15/07/2015,Rural,Desktop,8,13,5
+Male,21,Master's Degree,Unemployed,82530,Yes,Yes,26/11/2016,Urban,Laptop,2,8,2
+Male,65,Master's Degree,Self-Employed,93820,Yes,Yes,15/09/2014,Suburban,Desktop,7,16,1
+Male,35,Other,Self-Employed,41405,Yes,Yes,11/06/2012,Urban,Desktop,15,10,3
+Male,54,PhD,Retired,87861,Yes,Yes,16/12/2012,Suburban,Laptop,10,16,1
+Male,32,PhD,Self-Employed,43325,No,No,03/09/2016,Suburban,Desktop,13,1,3
+Male,41,High School Diploma,Unemployed,35229,Yes,Yes,26/02/2014,Suburban,Laptop,13,5,2
+Female,22,High School Diploma,Employed,34886,No,Yes,20/12/2016,Urban,Desktop,8,11,2
+Male,60,Other,Employed,71255,Yes,Yes,19/12/2015,Urban,Desktop,2,2,3
+Female,65,Bachelor's Degree,Student,66160,Yes,Yes,29/10/2016,Suburban,Desktop,11,15,4
+Male,55,PhD,Unemployed,89052,Yes,Yes,27/09/2016,Urban,Laptop,3,8,1
+Female,51,Bachelor's Degree,Student,58576,Yes,Yes,22/01/2016,Rural,Smartphone,18,12,2
+Female,20,Master's Degree,Retired,44674,No,Yes,30/01/2014,Rural,Desktop,6,12,1
+Female,36,Other,Self-Employed,22449,Yes,Yes,26/12/2012,Urban,Smartphone,14,7,2
+Male,36,High School Diploma,Retired,77467,Yes,Yes,15/06/2015,Suburban,Desktop,12,5,3
+Female,63,PhD,Employed,64367,Yes,No,18/02/2012,Urban,Tablet,3,2,1
+Male,28,Master's Degree,Self-Employed,42135,Yes,No,26/10/2014,Suburban,Smartphone,9,10,5
+Male,18,PhD,Retired,36464,Yes,Yes,22/02/2013,Urban,Laptop,2,14,4
+Male,25,Other,Employed,69546,Yes,No,18/01/2013,Suburban,Tablet,12,9,3
+Female,63,Other,Employed,87447,Yes,Yes,13/11/2016,Urban,Laptop,2,15,5
+Female,25,Other,Employed,79510,Yes,Yes,09/12/2012,Urban,Laptop,11,9,4
+Male,64,PhD,Self-Employed,36812,Yes,Yes,12/03/2014,Urban,Smartphone,12,10,3
+Male,27,High School Diploma,Unemployed,74978,Yes,Yes,02/11/2016,Suburban,Smartphone,3,11,1
+Male,32,Master's Degree,Self-Employed,70601,Yes,Yes,02/05/2016,Suburban,Smartphone,6,7,3
+Female,30,Other,Student,80272,No,No,12/08/2014,Urban,Tablet,13,8,3
+Male,36,Other,Employed,40421,Yes,Yes,28/06/2014,Urban,Desktop,10,3,5
+Female,61,High School Diploma,Employed,86246,Yes,Yes,19/05/2013,Urban,Tablet,11,1,1
+Male,34,PhD,Self-Employed,90532,Yes,Yes,06/09/2016,Suburban,Tablet,5,6,3
+Male,45,Other,Unemployed,83111,No,Yes,29/04/2016,Suburban,Desktop,10,4,4
+Male,39,Bachelor's Degree,Student,93672,No,Yes,17/12/2014,Suburban,Tablet,7,7,3
+Male,42,Other,Unemployed,42851,Yes,No,03/05/2014,Urban,Laptop,2,11,2
+Male,64,Master's Degree,Retired,77864,Yes,No,14/06/2015,Rural,Laptop,3,16,2
+Male,24,High School Diploma,Employed,91327,Yes,Yes,11/04/2015,Rural,Smartphone,7,11,4
+Male,64,Other,Unemployed,55268,Yes,Yes,30/12/2013,Suburban,Desktop,15,11,2
+Female,21,PhD,Unemployed,86448,Yes,Yes,19/02/2015,Suburban,Tablet,2,6,5
+Female,26,Other,Self-Employed,91946,Yes,Yes,22/07/2015,Urban,Laptop,17,12,4
+Female,56,Master's Degree,Unemployed,94384,No,Yes,24/04/2016,Suburban,Desktop,13,16,1
+Female,40,Other,Unemployed,27722,Yes,Yes,04/09/2015,Rural,Laptop,7,8,2
+Male,37,High School Diploma,Retired,71661,Yes,Yes,14/05/2012,Urban,Smartphone,5,7,3
+Female,33,PhD,Employed,26816,Yes,Yes,02/01/2016,Rural,Laptop,14,16,4
+Male,31,PhD,Unemployed,63374,Yes,No,01/05/2014,Suburban,Desktop,11,11,3
+Female,60,Master's Degree,Employed,92644,Yes,Yes,19/06/2012,Rural,Laptop,8,10,1
+Male,61,PhD,Self-Employed,59464,Yes,No,14/02/2015,Suburban,Tablet,12,11,1
+Male,41,High School Diploma,Unemployed,24723,Yes,Yes,09/05/2015,Urban,Smartphone,18,9,5
+Female,60,Master's Degree,Unemployed,90442,Yes,Yes,10/01/2012,Urban,Tablet,13,14,2
+Male,34,PhD,Employed,67191,Yes,Yes,08/05/2014,Urban,Smartphone,13,6,1
+Male,33,High School Diploma,Unemployed,51292,No,Yes,28/04/2015,Rural,Laptop,7,9,3
+Female,35,High School Diploma,Self-Employed,85331,No,Yes,23/07/2012,Rural,Desktop,18,7,1
+Male,42,PhD,Self-Employed,63613,No,Yes,04/08/2015,Urban,Smartphone,5,13,5
+Female,35,Master's Degree,Self-Employed,57870,Yes,No,21/11/2015,Rural,Smartphone,16,6,3
+Female,50,PhD,Unemployed,94206,Yes,No,04/10/2016,Suburban,Smartphone,15,6,3
+Male,51,Bachelor's Degree,Student,54741,Yes,Yes,05/10/2016,Urban,Desktop,9,7,3
+Female,53,Other,Student,49566,Yes,No,26/03/2013,Suburban,Tablet,13,2,3
+Male,35,Master's Degree,Retired,25227,Yes,Yes,28/07/2014,Rural,Desktop,6,4,3
+Female,51,Master's Degree,Employed,91254,Yes,Yes,29/10/2016,Suburban,Laptop,5,8,1
+Male,55,Bachelor's Degree,Student,23241,Yes,Yes,03/12/2016,Suburban,Tablet,13,12,4
+Male,64,Master's Degree,Employed,69882,No,No,05/06/2016,Suburban,Smartphone,1,2,3
+Male,47,High School Diploma,Retired,78816,Yes,Yes,30/04/2012,Urban,Tablet,14,13,5
+Female,28,PhD,Student,20271,Yes,Yes,14/09/2013,Rural,Tablet,18,5,1
+Female,21,Other,Employed,70252,Yes,Yes,24/08/2016,Rural,Tablet,7,12,2
+Female,58,PhD,Employed,38495,Yes,Yes,18/04/2016,Rural,Smartphone,5,2,3
+Female,52,Master's Degree,Employed,66748,Yes,Yes,31/03/2016,Rural,Smartphone,18,12,3
+Female,63,Master's Degree,Student,55345,Yes,Yes,24/12/2012,Suburban,Desktop,4,9,5
+Female,40,Master's Degree,Unemployed,64804,Yes,No,24/01/2014,Urban,Laptop,9,13,5
+Male,48,PhD,Retired,50076,No,Yes,13/05/2014,Rural,Desktop,2,16,5
+Male,21,Bachelor's Degree,Retired,85162,Yes,Yes,25/03/2015,Suburban,Laptop,13,2,3
+Female,61,High School Diploma,Unemployed,55653,Yes,Yes,19/11/2012,Suburban,Laptop,9,5,2
+Male,65,Bachelor's Degree,Self-Employed,22217,Yes,Yes,09/12/2015,Urban,Laptop,12,10,3
+Female,55,High School Diploma,Unemployed,63651,No,Yes,16/12/2012,Rural,Laptop,7,4,4
+Male,36,PhD,Unemployed,42240,Yes,Yes,17/05/2014,Suburban,Smartphone,7,12,5
+Male,48,Master's Degree,Student,34782,Yes,Yes,10/11/2013,Suburban,Tablet,6,14,3
+Female,29,Master's Degree,Retired,80584,Yes,No,27/02/2013,Urban,Tablet,12,2,3
+Male,59,High School Diploma,Self-Employed,79018,Yes,Yes,13/05/2013,Suburban,Tablet,13,7,1
+Female,31,Other,Unemployed,35299,Yes,No,23/12/2013,Suburban,Tablet,4,5,2
+Female,48,High School Diploma,Retired,36254,No,Yes,23/08/2016,Rural,Desktop,6,2,4
+Male,50,Bachelor's Degree,Student,97760,Yes,Yes,04/11/2013,Urban,Tablet,16,11,1
+Female,37,Other,Employed,57554,Yes,Yes,19/02/2016,Urban,Smartphone,2,11,3
+Female,58,PhD,Employed,94075,Yes,Yes,25/08/2015,Urban,Tablet,7,8,4
+Male,56,High School Diploma,Student,62847,Yes,No,28/08/2013,Urban,Desktop,16,12,1
+Male,46,Other,Self-Employed,73762,Yes,Yes,14/07/2012,Rural,Desktop,1,4,1
+Female,19,PhD,Employed,30975,Yes,Yes,09/07/2016,Rural,Tablet,7,9,3
+Female,37,Other,Employed,41391,Yes,Yes,03/07/2012,Suburban,Smartphone,10,6,5
+Female,32,Master's Degree,Retired,96999,No,Yes,09/06/2015,Suburban,Desktop,18,14,5
+Female,29,Bachelor's Degree,Retired,54353,Yes,No,05/04/2014,Urban,Desktop,18,15,3
+Male,64,PhD,Retired,57986,No,Yes,12/03/2013,Urban,Tablet,6,10,1
+Female,64,Master's Degree,Student,29827,No,No,21/05/2015,Urban,Desktop,16,8,5
+Female,37,High School Diploma,Student,63547,Yes,Yes,18/12/2015,Rural,Laptop,14,4,1
+Female,40,Other,Student,51487,Yes,Yes,11/01/2014,Urban,Tablet,12,6,1
+Male,52,Other,Self-Employed,20859,Yes,No,03/02/2012,Urban,Smartphone,13,8,5
+Female,40,High School Diploma,Self-Employed,58714,Yes,Yes,25/02/2013,Urban,Laptop,14,1,3
+Female,51,High School Diploma,Retired,67880,Yes,Yes,13/03/2014,Suburban,Desktop,6,16,5
+Female,28,Other,Student,91783,Yes,Yes,04/09/2016,Rural,Smartphone,7,10,5
+Female,19,Bachelor's Degree,Self-Employed,52671,Yes,Yes,25/10/2012,Suburban,Tablet,4,15,4
+Female,58,Bachelor's Degree,Self-Employed,29706,Yes,Yes,03/06/2012,Urban,Laptop,8,8,1
+Male,51,PhD,Employed,42538,Yes,Yes,19/11/2012,Rural,Desktop,3,14,3
+Male,31,Master's Degree,Unemployed,98100,Yes,Yes,04/09/2016,Suburban,Smartphone,12,9,2
+Female,45,High School Diploma,Student,50684,Yes,Yes,24/05/2016,Suburban,Smartphone,8,14,3
+Male,37,Master's Degree,Student,45216,No,Yes,13/10/2014,Rural,Tablet,10,10,3
+Male,46,Master's Degree,Retired,38993,Yes,Yes,11/06/2015,Urban,Smartphone,10,1,5
+Male,27,Other,Unemployed,35434,No,Yes,29/07/2012,Rural,Laptop,1,3,2
+Male,59,Bachelor's Degree,Self-Employed,27998,No,Yes,27/07/2013,Suburban,Laptop,15,1,3
+Male,59,Master's Degree,Unemployed,27773,Yes,Yes,23/04/2013,Rural,Tablet,1,1,3
+Female,57,Master's Degree,Unemployed,36829,Yes,Yes,03/01/2014,Rural,Laptop,1,8,2
+Female,30,Bachelor's Degree,Retired,56135,Yes,Yes,26/08/2012,Rural,Smartphone,1,12,1
+Female,59,High School Diploma,Retired,56308,Yes,No,18/12/2015,Suburban,Tablet,12,7,3
+Female,29,Master's Degree,Retired,41470,Yes,Yes,10/05/2015,Urban,Laptop,7,14,3
+Female,27,PhD,Student,98528,Yes,Yes,22/12/2015,Suburban,Laptop,16,14,1
+Male,62,High School Diploma,Retired,95550,Yes,Yes,11/02/2016,Suburban,Laptop,15,16,2
+Male,49,Bachelor's Degree,Student,94741,Yes,Yes,21/03/2013,Suburban,Tablet,1,2,4
+Female,18,Bachelor's Degree,Self-Employed,36519,Yes,Yes,05/08/2013,Rural,Desktop,7,15,2
+Male,55,Bachelor's Degree,Student,82225,No,Yes,29/09/2014,Urban,Smartphone,15,12,4
+Female,65,PhD,Self-Employed,39166,Yes,No,25/11/2016,Rural,Laptop,4,12,2
+Male,42,Master's Degree,Retired,92060,Yes,Yes,21/09/2012,Urban,Tablet,7,4,3
+Male,43,Bachelor's Degree,Self-Employed,28211,Yes,Yes,10/06/2015,Suburban,Tablet,5,10,3
+Female,34,PhD,Student,73526,No,No,20/07/2012,Urban,Laptop,3,3,5
+Male,34,Other,Self-Employed,49365,Yes,Yes,05/11/2015,Suburban,Desktop,1,1,3
+Female,50,Master's Degree,Unemployed,80608,Yes,Yes,06/02/2014,Rural,Desktop,7,3,5
+Male,46,High School Diploma,Employed,76604,Yes,No,24/08/2013,Urban,Tablet,17,12,1
+Female,58,High School Diploma,Unemployed,57145,No,Yes,01/07/2013,Rural,Tablet,8,5,5
+Female,37,Master's Degree,Student,61180,No,Yes,23/09/2016,Rural,Laptop,1,2,4
+Female,31,Bachelor's Degree,Student,27852,Yes,Yes,18/07/2012,Urban,Tablet,2,4,5
+Male,38,Master's Degree,Retired,21948,Yes,No,04/11/2016,Rural,Laptop,13,10,2
+Female,63,High School Diploma,Student,52246,Yes,Yes,08/02/2014,Suburban,Smartphone,2,4,1
+Male,58,Master's Degree,Student,72612,Yes,Yes,07/06/2012,Suburban,Tablet,6,6,3
+Male,65,PhD,Unemployed,43885,Yes,Yes,02/06/2013,Suburban,Smartphone,10,6,1
+Female,55,High School Diploma,Student,82440,Yes,Yes,15/01/2013,Rural,Tablet,18,12,5
+Male,40,Other,Student,40076,Yes,Yes,23/10/2014,Urban,Tablet,1,8,1
+Female,38,Master's Degree,Unemployed,64470,Yes,Yes,09/11/2016,Suburban,Laptop,12,11,4
+Male,50,Bachelor's Degree,Retired,55722,No,No,04/08/2014,Rural,Laptop,17,14,2
+Male,40,Bachelor's Degree,Employed,21310,Yes,Yes,13/01/2013,Suburban,Tablet,5,16,4
+Male,31,Other,Unemployed,79255,Yes,Yes,11/10/2013,Suburban,Smartphone,16,15,1
+Male,28,PhD,Student,89370,Yes,Yes,14/07/2014,Urban,Laptop,2,13,2
+Male,27,Bachelor's Degree,Unemployed,34298,Yes,No,19/11/2016,Urban,Tablet,13,12,4
+Male,23,Other,Student,20736,Yes,Yes,25/02/2014,Suburban,Smartphone,3,7,5
+Male,30,Master's Degree,Retired,61087,Yes,Yes,28/11/2013,Rural,Laptop,15,15,3
+Male,64,Master's Degree,Unemployed,53362,Yes,Yes,04/05/2014,Rural,Tablet,6,2,4
+Male,27,Master's Degree,Self-Employed,91358,Yes,Yes,09/08/2016,Suburban,Smartphone,1,15,4
+Male,35,Bachelor's Degree,Retired,54728,Yes,Yes,14/01/2013,Urban,Smartphone,12,8,1
+Male,43,Master's Degree,Retired,27932,Yes,Yes,14/07/2013,Urban,Tablet,9,13,1
+Male,41,Other,Retired,88295,No,Yes,25/03/2013,Rural,Laptop,8,9,5
+Female,43,Bachelor's Degree,Retired,84784,Yes,No,22/10/2013,Suburban,Smartphone,2,16,2
+Male,64,Other,Student,85871,Yes,No,25/05/2012,Rural,Smartphone,4,5,2
+Male,56,High School Diploma,Employed,36776,Yes,Yes,04/04/2016,Rural,Laptop,16,4,2
+Male,62,High School Diploma,Retired,30962,Yes,Yes,19/06/2012,Rural,Tablet,6,1,3
